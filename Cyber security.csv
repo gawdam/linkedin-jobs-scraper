@@ -1,0 +1,104 @@
+
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,"Rubrik, Inc.",Senior Software Engineer - Data Platform,Associate,8,NA,Computer Software,NA,C Java Python C++ C/C++ Scala
+2,Nike,"Senior Cyber Threat Analytics Engineer, India – CIS ICC",Associate,,NA,Sporting Goods,NA,C Java Python
+3,Deloitte India,Data Security | Security Governance | Security Strategy | Security Framework,291 applicants,3,8,Management Consulting,NA,
+4,Infoblox,Senior Threat Intelligence Analyst,Mid-Senior level,7,3,Computer & Network Security,NA,C Python
+5,Vodafone,Cyber Security Professionals,Entry level,12,000,Telecommunications,NA,C
+6,Rectras,Cyber Security Analyst Soc Security Automation,Entry level,450,450,Staffing & Recruiting,NA,C Python
+7,Herbalife International India Pvt. Ltd.,Cyber Security Engineer,35 applicants,3,2,"Health, Wellness & Fitness",NA,C NA
+8,General Mills,"Associate Manager, Cyber Security",68 applicants,5,10,Consumer Goods,NA,C Python NA Ruby
+9,KPMG,Director of Cyber Security,296 applicants,10,4,Accounting,NA,C
+10,Goldman Sachs,Security Engineer – Vulnerability Management,Entry level,,NA,Financial Services,NA,C
+11,AvionX Inc,Security Researcher,117 applicants,3,NA,Computer & Network Security,NA,C C++ C/C++
+12,EnDelve Private Limited,Malware and Threat Investigator  - Cyber Security Client of EnDelve,87 applicants,6,3,Staffing & Recruiting,NA,C
+13,UST Global,Security Analyst,Associate,3,NA,Information Technology & Services,NA,C React
+14,GE Healthcare,Staff Technical Product Manager,Mid-Senior level,10,NA,Hospital & Health Care,NA,
+15,Talentica Software,Cyber Security Architect,Mid-Senior level,10,2,Computer Software,NA,C
+16,Unilever,ISOC -Digital Forensic & Incident response (DFIR),Entry level,3,NA,Consumer Goods,NA,C Python
+17,Huawei Technologies India,Technology Researcher - AI/ML/CV,Mid-Senior level,,NA,Telecommunications,NA,C
+18,Mindtree,Information Security Consultant,378 applicants,2,7,Information Technology & Services,NA,C
+19,CloudSEK,Technical Writer - Cybersecurity,221 applicants,,NA,Information Technology & Services,NA,
+20,Milestone Inc,Director IT,Director,10,20,Marketing & Advertising,NA,C
+21,Qubole,Senior Staff Security Engineer,Associate,10,NA,Information Technology & Services,NA,C Java Python JavaScript Ruby
+22,GITAM Deemed University,Head Of Department (CSE),152 applicants,12,NA,Higher Education,NA,C
+23,Tally Solutions Pvt Ltd,Information Security Specialist,186 applicants,17799,7799,Information Technology & Services,NA,C
+24,Icertis,Security Analyst - Information Security,Associate,5,7,Information Technology & Services,NA,C
+25,DXC Technology,Professional 2 Information Security,Mid-Senior level,,NA,Information Technology & Services,NA,C
+26,"Ondot Systems, Inc.",Ondot Systems - Assistant Manager - Information Security - CISA/CISM/CISSP (8-12 yrs) Bangalore/Chennai,Entry level,,NA,Financial Services,NA,C
+27,Micron Technology,Security Engineer,Mid-Senior level,5,3,Semiconductors,NA,C NA
+28,McAfee,Lead SDET,Mid-Senior level,9,3,Computer & Network Security,NA,C
+29,9ine Consulting,Penetration Tester,143 applicants,,NA,Education Management,NA,C C# Python JavaScript
+30,Dell EMC,"Automation Architect, Client Software & Solution Engineering",28 applicants,18,NA,Information Technology & Services,NA,C C# Java Python ReactJS NA Ruby
+31,SUEZ - Water Technologies & Solutions,CYBER SECURITY IT & OT MANAGER - copy,Director,5,10,Environmental Services,NA,C
+32,VBeyond Corporation,Director of Cyber Security,262 applicants,2,11,Staffing & Recruiting,NA,C NA
+33,TAC Security,Cyber Security Sales,Entry level,,NA,Computer & Network Security,NA,C
+34,Wells Fargo,Info Security Analyst 1,Associate,,NA,Financial Services,NA,C NA
+35,GE,Staff Technical Product Manager,Mid-Senior level,1,2,Mechanical Or Industrial Engineering,NA,
+36,Sophos,Principal Software Development Engineer in Test,52 applicants,13,5,Computer Software,NA,C Python
+37,Accenture in India,Infrastructure Security Vulnerability Management Operations,39 applicants,8,15,Information Technology & Services,NA,
+38,Zebra Technologies,"Information Security Engineer, Advanced",Entry level,10,14,Information Technology & Services,NA,C
+39,Altran,Senior Systems Engineer,Mid-Senior level,,NA,Information Technology & Services,NA,C
+40,SecPod,Software Engineer - Systems,357 applicants,3,4,Computer & Network Security,NA,C
+41,HARMAN International,"Principal Engineer, Systems",Associate,12,8,Consumer Electronics,NA,C
+42,Ceequence Technologies,Information Security Engineer Advanced,Entry level,10,14,Outsourcing/Offshoring,NA,C Python
+43,Temenos,IT Security Analyst - SOC,Mid-Senior level,5,10,Computer Software,NA,C
+44,Fujitsu,Security Monitoring,206 applicants,2,5,Information Technology & Services,NA,
+45,Medtronic,Product Security Engineer,Entry level,4,NA,Medical Device,NA,C C++
+46,WeInvest - Digital Wealth Platform,Lead Devops Engineer,142 applicants,5,NA,Investment Management,NA,C Python NA Ruby
+47,JPMorgan Chase & Co.,Software Engineering - Java Developer-Hyderabad,Entry level,2,2,Financial Services,NA,C Java HTML5 Spring Angular
+48,Smith & Nephew,Security Analyst,Associate,2,NA,Medical Device,NA,C
+49,Rakuten India,SOC Manager,Mid-Senior level,,NA,Internet,NA,C Python
+50,Honeywell,Advanced Cyber Sec Archt/Engr,Entry level,6,2,Electrical & Electronic Manufacturing,NA,C Java CSS SQL JavaScript
+51,Expert Executive Recruiters,Senior Cloud Engineer (Cloud Security Development),126 applicants,5,10,Staffing & Recruiting,NA,C Node.js Golang SQL
+52,Sony Electronics,NOC Level 2 Engineer,Mid-Senior level,2,8,Consumer Electronics,NA,C NA
+53,Amazon,Security Engineer II,Mid-Senior level,2,NA,Internet,NA,C
+54,Qualys,"QA Engineer, Security Scanner",Entry level,2,NA,Computer & Network Security,NA,Oracle C Python SQL
+55,Baxter International Inc.,"Principal Eng, Systems",Associate,10,15,Medical Device,NA,C
+56,"Alphaserve Technologies®, an Eze Castle Integration Company",Security Compliance Associate,Entry level,1,2,Information Technology & Services,NA,C
+57,Sukshi,Lead DevOps Engineer,83 applicants,5,NA,Computer Software,NA,C NA
+58,Royal Enfield,IT Security Lead,25 applicants,10,14,Automotive,NA,C
+59,ARA Resources Pvt. Ltd.,Security Architect,Associate,10,2,Staffing & Recruiting,NA,C
+60,Singh & Associates - Advocates and Solicitors,Manager – IT Network Security,124 applicants,5,NA,Law Practice,NA,
+61,NTT Ltd.,Senior Associate Security Analyst - Global Services,Associate,5,NA,Information Technology & Services,NA,C
+62,Mastercard,"Associate Analyst, Mastercard Launch",Entry level,,NA,Information Technology & Services,NA,C Spark Python
+63,Alation,DevOps and Security Engineer,Entry level,,NA,Computer Software,NA,C Python
+64,WSP in India,Information Security Manager,216 applicants,10,12,Civil Engineering,NA,C
+65,Mindsoft India,GCP Cloud Security Engineer - BigQuery/Data Pipeline (5-11 yrs) Bangalore (DevOps),Entry level,2,5,Staffing & Recruiting,NA,Oracle C Java Python SQL JavaScript
+66,Danaher Corporation,Product Cybersecurity Engineer,261 applicants,,NA,Medical Device,NA,C
+67,"Glan Management Consultancy- Career, Jobs, Hiring",Information Security Analyst - Cyber Security (1-3 yrs) Ghaziabad (DevOps),Associate,1,2,Staffing & Recruiting,NA,C
+68,India_India,Penetration Tester,Entry level,1,5,Public Policy,NA,C Python Ruby
+69,Lennox India Technology Centre,Senior Security Analyst - SIEM,337 applicants,6,NA,Mechanical Or Industrial Engineering,NA,C
+70,Search Folks,ForgeRock Consultant - Identity Management (3-10 yrs) Bangalore (DevOps),Entry level,3,10,Staffing & Recruiting,NA,Java SQL JavaScript
+71,SymphonyAI,DevOps Engineer,308 applicants,5,3,Venture Capital & Private Equity,NA,C Python
+72,SonicWall,C Programmer/Developer (5-6 yrs) Networking/Network Security**,Entry level,5,NA,Computer & Network Security,NA,C
+73,ABB,Senior Test Engineer,Mid-Senior level,4,8,Electrical & Electronic Manufacturing,NA,C
+74,Codec Networks Pvt Ltd,VAPT Analyst Penetration Testing Vulnerability Assessment,Entry level,,NA,Computer & Network Security,NA,C Java Python PHP
+75,GE Renewable Energy,Lead Firmware Developer,Associate,5,NA,Renewables & Environment,NA,C C++ JavaScript
+76,Amazon Web Services (AWS),"Security, Risk & Compliance Specialist - II",Mid-Senior level,10,NA,Information Technology & Services,NA,C
+77,Aptiv,FS Embedded  Software Developer,135 applicants,10,5,Electrical & Electronic Manufacturing,NA,C
+78,PepsiCo,Director_Business Information Security Officer (BISO),425 applicants,15,NA,Food & Beverages,NA,C NA
+79,Raisoni Group of Institutions,Software Architect,13 applicants,,NA,Education Management,NA,C Java
+80,American LegalNet,"Senior Software Architect- Hyderabad, India",Mid-Senior level,4,8,Information Technology & Services,NA,C Node.js Angular
+81,CBay Systems (I) Pvt. Ltd.,Ondot Systems - Assistant Manager - Information Security - CISA/CISM/CISSP (8-12 yrs) Bangalore/Chennai (DevOps),Entry level,,NA,Outsourcing/Offshoring,NA,C
+82,Forcepoint,Requisition Specialist,Associate,0,2,Computer Software,NA,C
+83,SailPoint,Technical Support Engineer,Entry level,3,NA,Computer Software,NA,Oracle C Java SQL JavaScript
+84,Wipro Limited,Linux Administrator,157 applicants,,NA,Information Technology & Services,NA,Oracle
+85,PKC Advisory,PKC Advisory - Consultant - Cyber Defense/Security - Contractual (3-8 yrs) Gurgaon/Gurugram,Associate,4,58,Management Consulting,NA,C
+86,CyberQ Consulting,Urgent requirement for Software Engineer â€“ DevOps - Mumbai Location - 4years Exp,Entry level,91,9004445869,Information Technology & Services,NA,Python NA
+87,F5,Product Owner II,Director,5,3,Information Technology & Services,NA,C
+88,Jobs via eFinancialCareers,Info Security Analyst,Associate,2,NA,Staffing & Recruiting,NA,C
+89,CenturyLink,Associate Lead - Netbackup Administration,92 applicants,6,9,Information Technology & Services,NA,C
+90,Zscaler,Senior Software Engineer - Windows Developer,22 applicants,5,NA,Computer & Network Security,NA,C C# C++
+91,Primus Professional Services,Cloud Security Architect Opening in Leading Product MNC - Bangalore,Associate,10,4,Telecommunications,NA,C Java Python
+92,CSGI,DevOps Engineer Senior,Associate,6,8,Computer Hardware,NA,C C# Python
+93,Eaton,Senior Engineer,Mid-Senior level,6,7,Electrical & Electronic Manufacturing,NA,C Python C++
+94,TechMasters corp,PAM Architect,19 applicants,10,NA,Information Technology & Services,NA,C
+95,IBM,Security Services Specialist,Mid-Senior level,5,NA,Information Technology & Services,NA,C
+96,Kaseya,Front End Web Developer,Entry level,5,5,Computer Software,NA,C HTML5 CSS CSS3
+97,Irdeto,Senior Software Engineer,49 applicants,,NA,Information Technology & Services,NA,C Java NA C++ C/C++
+98,PT Astra International Tbk,Astra - Full Stack Software Development Engineer II - Symfony/PHP/PostgreSQL (2-6 yrs) Any Location/Delhi/Delhi NCR,Entry level,,NA,Industrial Automation,NA,C HTML5 ReactJS CSS SQL JavaScript React PHP
+99,ClearedJobs.Net,Requisition Specialist,Associate,0,2,Defense & Space,NA,C
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP
+4,0,89,1,4,13,24,2,3,2,0,12,0,7,1,3,3,1,0,7,8,5,0,2,2,1,1,0,2

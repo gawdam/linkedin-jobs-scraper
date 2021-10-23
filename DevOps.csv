@@ -1,0 +1,124 @@
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills,,,Java,JavaScript,Ruby,HTML5,CSS,Python,NodeJS,Golang,SQL,Hibernate,Scala,Ruby
+1,Plivo,Senior Manager- Devops,92 applicants,9,2,Internet, Engineering ,PostgreSQL C Python Golang SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+2,Cure.Fit,Devops,Mid-Senior level,,NA,"Health, Wellness & Fitness", Other ,C Python SQL Ruby,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+3,IBM,DevOps Engineer,27 applicants,10,NA,Information Technology & Services, Other ,C Java Python JavaScript,,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+4,Telstra,DevOps Engineer,Mid-Senior level,5,8,Telecommunications, Information Technology ,Java Python Spring,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+5,Hitachi Vantara,DevOps Engineer,Entry level,5,10,Information Technology & Services, Other ,Oracle Spark Java Python SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,Accenture in India,DevOps,116 applicants,15,NA,Information Technology & Services, Other ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,Meesho,DevOps Engineer,Mid-Senior level,4,24,Internet, Information Technology Engineering ,Spark Java Python ReactJS Spring SQL JavaScript NodeJS,,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,Zebra Technologies,Devops Engineer,Entry level,3,NA,Information Technology & Services, Other ,C Spark Python Ruby,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,Vodafone,DevOps Engineer,Entry level,12,0,Telecommunications, Other ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+10,Sandvine,DevOps Consultant,Associate,8,8,Telecommunications, Engineering Information Technology ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+11,Delhivery,Senior DevOps Architect,Director,10,5,Logistics & Supply Chain, Information Technology Engineering ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+12,UnDosTres,DevOps,Entry level,,NA,Internet, Other ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+13,Sendinblue,DevOps Engineer,Entry level,3,6,Internet, Other ,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+14,SailPoint,DevOps Engineer,Entry level,24,7,Computer Software, Other ,C Java NA Ruby,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15,Pitney Bowes,DEVOPS ENGINEER,Entry level,4,6,Information Technology & Services, Other ,C SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+16,Tide,DevOps Engineer,Entry level,,NA,Financial Services, Other ,Java Python Spring,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+17,OnceHub,Devops Engineer,Mid-Senior level,5,NA,Computer Software, Other ,PostgreSQL Python Node.js SQL PHP,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+18,DKATALIS (Digital Katalis),Java - FullStack Engineer,53 applicants,4,NA,Financial Services, Engineering Information Technology ,C Java Node.js Ruby,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+19,Acquia,DevOps Engineer,Entry level,2,NA,Computer Software, Other ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+20,KloudOne (Hiring Cloud Engineering Talent!),Software Architect,285 applicants,5,NA,Computer Software, Engineering Information Technology ,C SQL JavaScript Angular React,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+21,IHS Markit,Senior Software Engineer - Dev Ops,Mid-Senior level,6,NA,Information Services, Engineering Information Technology ,C Spark Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+22,Moxie,DevOps Engineer,Associate,3,4,"Health, Wellness & Fitness", Engineering Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+23,Community Brands,Software Engineer - Java Full Stack,Associate,3,7,Computer Software, Engineering Information Technology ,C Java CSS Spring Hibernate SQL JavaScript React,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+24,Barclays,Engineer_Developer,Associate,,NA,Financial Services, Engineering Information Technology ,C Java Spring SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+25,Wakefit,DevOps Engineer,Entry level,,NA,Furniture, Other ,C Java Python,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+26,QuestionPro,DevOps Engineer,232 applicants,,NA,Computer Software, Engineering Information Technology ,C Java Python NA SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+27,Synopsys Inc,Senior Cloud DevOps Engineer,405 applicants,5,NA,Computer Software, Engineering ,C Spark Java Python C++ JavaScript,,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+28,Numerator,Engineer - Python / ETL,Entry level,5,2,Market Research, Business Development Sales ,C C# Java Python SQL Angular React,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+29,NTT Ltd.,Team Lead DevOps Engineer,Mid-Senior level,6,8,Information Technology & Services, Information Technology ,Oracle C NA,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+30,GE Power,Staff Software Architect,Associate,10,NA,Oil & Energy, Engineering Information Technology ,Oracle C Java CSS Spring Hibernate JavaScript,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+31,CitiusTech,Technical Lead - II AWS Devops,35 applicants,5,9,Information Technology & Services, Engineering Information Technology ,NA,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+32,Jobs via eFinancialCareers,Associate-DevOps Engineer,Entry level,2,NA,Staffing & Recruiting, Information Technology ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+33,EPAM Systems,DevOps _ AZURE _K8_CICD,54 applicants,15,4,Information Technology & Services, Engineering ,Spark,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+34,Ai Palette,Senior DevOps Engineer,Mid-Senior level,3,3,Information Technology & Services, Engineering Information Technology Other ,PostgreSQL C Python SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+35,Educomp Solutions Ltd,DevOps Engineer,Entry level,2,NA,E-learning, Other ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+36,GivingLoop,Senior Full Stack Software Engineer (PHP),Associate,,NA,Internet, Engineering Information Technology ,CSS SQL JavaScript PHP,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+37,Hortor Limited,Senior DevOps Engineer - Permanent,Mid-Senior level,2,NA,Information Technology & Services, Information Technology ,C Java Spring SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+38,UnitedHealth Group,"Senior Software Engineer - Java,Springboot,Kubernetes",273 applicants,5,11,Hospital & Health Care, Information Technology ,Java,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+39,Rackspace Technology,Software Developer,Entry level,5,NA,Information Technology & Services, Engineering Information Technology ,C Python Golang,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+40,Accern,Senior DevOps Engineer,519 applicants,4,NA,Computer Software, Information Technology Engineering ,C Spark Java Python JavaScript,,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+41,ValueLabs,DevOps Consultant,Mid-Senior level,5,9,Information Technology & Services, Engineering Information Technology ,C Python NA,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+42,Grab,"Senior Software Engineer, Full Stack",Mid-Senior level,4,NA,Information Technology & Services, Information Technology Product Management Engineering ,C CSS JavaScript,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+43,SirionLabs,Software / Senior Software Engineer - Java - 280720,Associate,2,6,Computer Software, Engineering Information Technology ,C C# Java HTML5 Golang CSS Spring Hibernate SQL JavaScript Angular Scala,,,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+44,Signant Health,DevOps Team Lead,Associate,10,NA,Pharmaceuticals, Other ,Oracle C Python SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+45,Fractal,"Data Engineer, Azure",Entry level,3,10,Management Consulting, Consulting Engineering ,C Spark C# Java Python C++ SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+46,Novartis India,F1 AWS Big Data Architect,Mid-Senior level,5,9,Pharmaceuticals, Analyst Information Technology Engineering ,C Spark Java Python SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+47,Brightcove,Software Engineer,Entry level,4,NA,Online Media, Engineering Information Technology ,C Java Ruby React,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+48,RedBlack Software,Senior DevOps Engineer,Mid-Senior level,,NA,Computer Software, Information Technology ,NA SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+49,LTI - Larsen & Toubro Infotech,Azure Devops,Mid-Senior level,5,9,Information Technology & Services, Information Technology Other ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+50,India_India,Ansible Automation Engineer,Entry level,6,2,Public Policy, Engineering Information Technology ,C Java Python,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+51,Credit Suisse,"BigData Development, ENO, #15579",Mid-Senior level,6,NA,Banking, Engineering ,C Spark Java AngularJS Spring JavaScript AngularJS React,,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+52,Optum (formerly Alere Wellbeing),Engineering Manager - Java Kafka Microservices,Executive,16,13,"Health, Wellness & Fitness", Engineering Information Technology ,Oracle C Java NA Spring SQL JavaScript Angular React,,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+53,Dover India,Principal engineer Azure devops,Mid-Senior level,6,NA,Machinery, Information Technology ,C Python SQL Ruby,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+54,UST Global,Software Architect,Associate,1,9,Information Technology & Services, Engineering Information Technology ,Java SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+55,Bosch Engineering and Business Solutions,DevOps Engineers- ECP- COB,Entry level,3,8,Information Technology & Services, Other ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+56,Deloitte India,Technical Architect- Full stack,Mid-Senior level,15,NA,Management Consulting, Consulting Strategy/Planning Other ,PostgreSQL C Java Python Node.js AngularJS SQL JavaScript Ruby AngularJS Angular React,,,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+57,TransUnion,Manager - DevOps,Associate,,NA,Information Technology & Services, Other ,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+58,UL,"Senior Software Engineer, Python",105 applicants,5,NA,International Trade & Development, Information Technology ,C Python CSS JavaScript Angular React,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+59,Qwinix,DevOps Engineer -Sr Level,208 applicants,5,NA,Computer Software, Information Technology ,C Java Python Golang,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+60,CampusPuppy,DevOps Engineer - Docker/Kubernetes (1-3 yrs) Noida (DevOps),Entry level,,NA,Education Management, Other ,C Python Golang,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+61,Televisory,Televisory - Software Engineer - Python/Django (3-4 yrs) Gurgaon/Gurugram (DevOps),Entry level,3,NA,Financial Services, Engineering Information Technology ,C Python CSS SQL JavaScript,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+62,"Ameriprise Financial Services, LLC.",Architect - Cloud Engineering,Associate,,NA,Financial Services, Design Art/Creative Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+63,DSRC,GoLang Developer | Data Software Research Company,Entry level,,NA,Information Technology & Services, Engineering Information Technology ,C Java HTML5 SQL JavaScript CSS3 Scala,,,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+64,Mahindra Engineering,Azure Data Engineers,Entry level,30,4,Automotive, Information Technology ,Spark Python SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+65,Rapyder (Hiring Cloud Engineering Talent!!),DevOps Senior Engineer,Associate,4,10,Information Technology & Services, Other ,Oracle C Java Python NA Ruby,,,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+66,Poly,Application Developer,Entry level,3,5,Telecommunications, Engineering Information Technology ,C Java Python HTML5 AngularJS JavaScript AngularJS CSS3,,,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+67,NatGas Hub,Dotnet Developer,Associate,6,7,Oil & Energy, Engineering Information Technology Production ,C C# ASP.NET Hibernate SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+68,HCL Software,Data Architect,Mid-Senior level,5,NA,Information Technology & Services, Engineering ,Oracle C Python NA SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+69,Mr. Cooper,Lead Fullstack Engineer,Mid-Senior level,6,11,Financial Services, Engineering Information Technology ,Oracle Java Node.js C++ Spring SQL JavaScript Ruby Angular React,,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+70,ARA Resources Pvt. Ltd.,Senior. Java Developer,Associate,5,NA,Staffing & Recruiting, Engineering Information Technology ,C Java Spring Hibernate SQL Angular,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+71,Softobiz Technologies Private Limited,DevOps Engineer,Entry level,,NA,Information Technology & Services, Other ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+72,Zinier,Vice President Delivery,67 applicants,20,NA,Computer Software, Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+73,Ellucian,Cloud Application Administrator,33 applicants,3,11,Higher Education, Information Technology ,Oracle C Python Ruby,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+74,CSGI,DevOps Engineer Senior,Associate,6,8,Computer Hardware, Other ,C C# Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+75,BD,"Engineer II, DevOps",Entry level,4,NA,Medical Device, Engineering Information Technology ,C SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+76,BCube IT Services Pvt. Ltd.,Software Engineer - IT Infrastructure (1-5 yrs) Bangalore (DevOps),Entry level,,NA,Executive Office, Engineering Information Technology ,Oracle C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+77,LitmusWorld,Litmusworld - AWS Cloud Architect - Python/Node.js (2-3 yrs) Bangalore (DevOps),Associate,2,3,Information Technology & Services, Engineering Information Technology ,C Python NodeJS,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+78,Symphony RetailAI,Support Administrator,151 applicants,3,8,Information Technology & Services, Information Technology Administrative ,Oracle C Java SQL,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+79,Northern Trust Corporation,"Specialist, Applications",Associate,3,5,Financial Services, Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+80,Rapido,Test Architect,166 applicants,,NA,Information Technology & Services, Quality Assurance ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+81,"Rubrik, Inc.",Director Enterprise Architect,18 applicants,10,NA,Computer Software, Engineering Information Technology Management ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+82,Cloudwick Technologies,Cloudwick - AWS Application Developer - Python/Scala (5-8 yrs) Bangalore (DevOps),Entry level,5,3,Information Technology & Services, Engineering Information Technology ,C Python Scala,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+83,Fulcrum Digital Inc,Java + Kafka Developer,67 applicants,2,6,Information Technology & Services, Information Technology ,C Java NA Spring,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+84,INVINCIBLE LIMITED,Backend Developer,Entry level,2,3,"Leatherhead, England", Engineering Information Technology ,C Python CSS SQL JavaScript,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+85,NyKinSky & Company,Software Engineer (Infra),266 applicants,15,30,Management Consulting, Information Technology Engineering ,Oracle C Java,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+86,Sumo Logic,Senior Backend Software Engineer - Data Collections,Associate,3,NA,Computer Software, Engineering Information Technology ,C Java NA C++ Ruby Scala,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+87,Freecharge,Head Of Infrastructure,154 applicants,4,5,Internet, Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+88,Altran,Senior Software Engineer,Mid-Senior level,36,NA,Information Technology & Services, Engineering Information Technology ,Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+89,MARKTINE,Python Developer - Django/Flask (4-8 yrs) Jaipur (DevOps),Entry level,4,8,Information Technology & Services, Engineering Information Technology ,C Python HTML5 JavaScript CSS3,,,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+90,The Jurists,Desktop Architect - System/Applications Implementation (10-14 yrs) Bangalore (DevOps),Associate,10,12,Legal Services, Design Art/Creative Information Technology ,C,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+91,Netomi,Netomi - Software Development Engineer I - Java/Spring/Rest Webservices (1-3 yrs) Gurgaon/Gurugram (Backend Developer),Entry level,1,3,Internet, Engineering Information Technology ,Spark Java Spring,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+92,Optimus Global Services Ltd,Sr. Devops Engineer,Associate,8,12,Outsourcing/Offshoring, Other ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+93,Teradata,Test Engineer,Mid-Senior level,2,NA,Information Technology & Services, Engineering ,Python SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+94,Carbynetech,CarbyneTech - Power App Developer - CDS/MSFlow (3-11 yrs) Hyderabad (DevOps),Entry level,2,NA,Information Technology & Services, Engineering Information Technology ,SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+95,Infosys,Senior Consultant – AI & Automation,224 applicants,5,NA,Information Technology & Services, Information Technology ,C Spark Java Python Spring,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+96,Pactera EDGE,AI Platform Lead,Mid-Senior level,8,12,Information Technology & Services, Engineering Information Technology ,C Python SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+97,Orbo.ai,Orbo.ai - DevOps Engineer - MemCache/Chef/Ansible (4-6 yrs) Mumbai,Entry level,3,NA,Internet, Other ,C Python Node.js SQL JavaScript,,,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+98,OpenText,Lead Software Engineer - Site Reliability,Associate,5,NA,Computer Software, Engineering Information Technology ,C Python NA SQL Ruby,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+99,YouGov India,BI/Finance Applications Developer,Associate,,NA,Market Research, Information Technology ,C C# ASP.NET SQL Angular,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+100,Zorang,Zorang Technologies - Full Stack Developer- React.js/Javascript/Node.js (3-6 yrs) Gurgaon/Gurugram/Pune,Entry level,2,NA,Information Technology & Services, Engineering Information Technology ,C Node.js CSS SQL JavaScript React NodeJS,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+101,John Deere,Senior Software Engineer I,Associate,2,NA,Machinery, Information Technology ,C SQL,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+102,Xerox,"Engineer I, Software Engineering (Senior Software Engineer)",57 applicants,4,8,Information Technology & Services, Information Technology Consulting ,C C# Java ASP.NET SQL Angular,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+103,Crestron Electronics,"Senior Azure PaaS Engineer, Cloud Operations",Mid-Senior level,5,NA,Electrical & Electronic Manufacturing, Engineering Information Technology Other ,C Python,,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+104,Kuliza,Kuliza - Infrastructure Developer - Python/PowerShell/Cloud Services (4-8 yrs) Bangalore (DevOps),Entry level,4,NA,Computer Software, Engineering Information Technology ,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+,,,,,,,,,,,37,22,12,4,12,51,3,5,42,5,4,12
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,Python,SQL,JAVA,,,,,,,,,,,,,,,,,
+,,,51,42,37,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,714 @@
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills,,,,,,Skillset,Number of jobs
+1,Amazon,Cloud Support Engineer - Bigdata/Hadoop #PS,Associate,,NA,Internet,NA,Oracle PostgreSQL C Spark Java Python SQL AWS,,,,,,C,32
+2,India_India,Associate Partner - Captives,Executive,14,NA,Public Policy,NA,C,,,,,,Java,32
+3,HuQuo,Hiring for Developer,Entry level,2,8,Human Resources,NA,Java Spring SQL NodeJS AWS Hyperledger Ethereum R3 Corda,,,,,,JavaScript,26
+4,Oracle,Senior Principal Consultant - Blockchain/ JET/ ODA Specialist,Associate,6,8,Information Technology & Services,NA,Oracle C HTML5 SQL Azure AWS Ethereum,,,,,,Oracle,22
+5,IBM,Practitioner - Finance and Administration Delivery,71 applicants,0,1,Information Technology & Services,NA,,,,,,,React,20
+6,IBM,Associate Partner : Industrial Sector (Core Manufacturing),22 applicants,1,15,Information Technology & Services,NA,,,,,,,AWS,20
+7,Cube Wealth,Backend Engineer,123 applicants,2,10,Financial Services,NA,Java Python Spring,,,,,,Python,18
+8,Signzy,Full stack developer,784 applicants,2,2,Computer Software,NA,NodeJS,,,,,,SQL,18
+9,IBM,Lead - Finance and Administration Delivery,69 applicants,4,6,Information Technology & Services,NA,,,,,,,Azure,10
+10,IBM,Senior Practitioner - Finance and Administration Delivery,13 applicants,2,4,Information Technology & Services,NA,Oracle,,,,,,Node.js,9
+11,Oracle,Software UI Developer 4,Associate,7,NA,Information Technology & Services,NA,Oracle Java HTML5 AngularJS CSS JavaScript AngularJS,,,,,,HTML5,9
+12,GreyAtom,GreyAtom - Senior Manager - Marketing (4-9 yrs) Mumbai,Mid-Senior level,,NA,Education Management,NA,C,,,,,,NodeJS,9
+13,Infineon Technologies,Expert - Application Engineer,Entry level,4,8,Semiconductors,NA,,,,,,,Spark,7
+14,IBM,Associate Partner : Industrial Sector,26 applicants,1,15,Information Technology & Services,NA,,,,,,,CSS,7
+15,Oracle,Cloud Engineer,Entry level,5,NA,Information Technology & Services,NA,Oracle Java Node.js JavaScript Angular React Azure AWS,,,,,,Spring,7
+16,Oracle,Senior Principal Consultant - WCC/OCE Specialist,Associate,6,8,Information Technology & Services,NA,Oracle C HTML5 SQL Azure AWS,,,,,,Angular,7
+17,Panaesha Capital Pvt. Ltd.,Blockchain Developer - Distributed Ledger Technologies (3-10 yrs) Delhi NCR (Emerging Technologies & Roles),Entry level,2,NA,Marketing & Advertising,NA,C Java C++ SQL JavaScript Angular NodeJS Ethereum Solidity,,,,,,Ethereum,7
+18,IBM,Senior Practitioner - Finance and Administration Delivery,8 applicants,2,4,Information Technology & Services,NA,,,,,,,PostgreSQL,5
+19,Talent Tigers,Full Stack Developer- Node.js/AngularJS (3-7 yrs) Chandigarh (Backend Developer),Entry level,9,6,Outsourcing/Offshoring,NA,Node.js SQL JavaScript Angular,,,,,,PHP,5
+20,MindDeft Technologies,Full Stack Blockchain DAPP Developer,23 applicants,2,5,Information Technology & Services,NA,CSS React NodeJS Azure AWS Ethereum,,,,,,AngularJS,4
+21,IBM,Storage Backend Developer_Public Cloud,Mid-Senior level,,NA,Information Technology & Services,NA,C Golang Azure AWS Golang,,,,,,AngularJS,4
+22,Binance,HR+Admin Manager (HR/TA/GA),Associate,4,NA,Internet,NA,React,,,,,,Solidity,4
+23,IBM,Associate Partner : Industrial Sector,55 applicants,1,15,Information Technology & Services,NA,,,,,,,ReactJS,3
+24,Startup,Presales Role - Digital Onboarding Solution Provider (0-3 yrs) Mumbai,Entry level,0,3,Semiconductors,NA,C,,,,,,C++,3
+25,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,Hyperledger,3
+26,IBM,Industry Consultant-Asset Liability Management,22 applicants,10,NA,Information Technology & Services,NA,Oracle Python,,,,,,R3,3
+27,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,Corda,3
+28,Binance,Engineering Lead,17 applicants,8,NA,Internet,NA,C,,,,,,NA,2
+29,AMBCrypto,Financial Journalist – Day Shift - Remote Work,59 applicants,1,NA,Online Media,NA,,,,,,,Golang,2
+30,Artivatic.ai [Insurtech],Artivatic.ai - Blockchain Developer - Solidity/Cryptography (3-5 yrs) Bangalore,Entry level,,NA,Insurance,NA,C Node.js JavaScript Solidity,,,,,,Ruby,2
+31,Tallyx,Python Developer,158 applicants,0,3,Financial Services,NA,Python,,,,,,CSS3,2
+32,IBM,Senior Practitioner - Finance and Administration Delivery,10 applicants,2,4,Information Technology & Services,NA,,,,,,,Golang,2
+33,QuillHash Technologies,QuillHash Technologies - React Native Developer - Android/iOS Platform (1-2 yrs) Gurgaon/Gurugram,Entry level,,NA,Internet,NA,,,,,,,C#,1
+34,MindDeft Technologies,Full Stack Blockchain DAPP Developer,23 applicants,2,5,Information Technology & Services,NA,CSS React NodeJS Azure AWS Ethereum,,,,,,Hibernate,1
+35,Amazon,Cloud Support Engineer - Bigdata/Hadoop #PS,Associate,,NA,Internet,NA,Oracle PostgreSQL C Spark Java Python SQL AWS,,,,,,Vyper,1
+36,NextGen Invent Corporation,PHP Full-Stack Developer,6 applicants,4,8,Information Technology & Services,NA,C HTML5 JavaScript React CSS3 PHP AWS,,,,,,ASP.NET,0
+37,Amazon,Cloud Support Engineer - Bigdata/Hadoop #PS,Associate,,NA,Internet,NA,Oracle PostgreSQL C Spark Java Python SQL AWS,,,,,,C/C++,0
+38,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,Scala,0
+39,Crypto.com,Blockchain Engineer - DEFI - Global Fintech Startup,56 applicants,1,5,Financial Services,NA,Python Golang CSS React Golang Solidity Vyper,,,,,,Quorum,0
+40,CoinSwitch,Senior Engineering Manager,234 applicants,,NA,Computer Software,NA,C,,,,,,,
+41,Accenture in India,CN - Strategy - MC - Industry X.O - APM - 07,32 applicants,1,10,Information Technology & Services,NA,C,,,,,,,
+42,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+43,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+44,IBM,Senior Practitioner - Finance and Administration Delivery,11 applicants,2,4,Information Technology & Services,NA,,,,,,,,
+45,Nisum,UX Architect,Associate,3,NA,Information Technology & Services,NA,,,,,,,,
+46,Signzy,Pre Sales Global,169 applicants,0,3,Computer Software,NA,C,,,,,,,
+47,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+48,Oracle,Cloud Engineer,Entry level,5,NA,Information Technology & Services,NA,Oracle Java Node.js JavaScript Angular React Azure AWS,,,,,,,
+49,Oracle,Senior Principal Consultant- VBCS/ JET/ ODA Specialist,Associate,6,8,Information Technology & Services,NA,Oracle C HTML5 ReactJS AngularJS SQL AngularJS Azure AWS,,,,,,,
+50,Signzy,Full stack developer,784 applicants,2,2,Computer Software,NA,NodeJS,,,,,,,
+51,NextGen Invent Corporation,Java Full-Stack Developer,54 applicants,2,8,Information Technology & Services,NA,Oracle C Spark Java ReactJS AngularJS CSS Spring Hibernate AngularJS AWS,,,,,,,
+52,Cube Wealth,Backend Engineer,123 applicants,2,10,Financial Services,NA,Java Python Spring,,,,,,,
+53,IBM,Associate Partner : Industrial Sector,63 applicants,1,15,Information Technology & Services,NA,,,,,,,,
+54,Connecting Work People AB,Blockchain Trainer - Java/Javascript/C++ (1-12 yrs) Trivandrum/Thiruvananthapuram (Analytics & Data Science),Associate,2,11,Construction,NA,Java C++ JavaScript,,,,,,,
+55,Connecting Work People AB,Blockchain Trainer - Java/Javascript/C++ (1-12 yrs) Trivandrum/Thiruvananthapuram (Analytics & Data Science),Associate,2,11,Construction,NA,Java C++ JavaScript,,,,,,,
+56,India_India,Associate Partner - Captives,Executive,14,NA,Public Policy,NA,C,,,,,,,
+57,IBM,Senior Practitioner - Finance and Administration Delivery,20 applicants,2,4,Information Technology & Services,NA,,,,,,,,
+58,IBM,Business Sales & Delivery Executive: Salesforce,Mid-Senior level,16,20,Information Technology & Services,NA,,,,,,,,
+59,IBM,Practitioner - Finance and Administration Delivery,10 applicants,0,1,Information Technology & Services,NA,,,,,,,,
+60,THIS IS! Digital Media Group GmbH,"Full-Stack Web developer (Bangalore, India)",Entry level,2,5,Information Technology & Services,NA,HTML5 CSS JavaScript Angular React CSS3 PHP,,,,,,,
+61,IBM,Senior Practitioner - Finance and Administration Delivery,2 applicants,2,4,Information Technology & Services,NA,Oracle,,,,,,,
+62,Happiest Minds Technologies,Technical Architect,143 applicants,,NA,Information Technology & Services,NA,C Azure,,,,,,,
+63,Infopark,QA Lead,Associate,8,NA,Information Technology & Services,NA,C Python Node.js SQL JavaScript Ruby PHP,,,,,,,
+64,IBM,Practitioner - Finance and Administration Delivery,7 applicants,0,1,Information Technology & Services,NA,,,,,,,,
+65,Hike,Crypto Expert,Associate,3,NA,Internet,NA,NA,,,,,,,
+66,THIS IS! Digital Media Group GmbH,"Lead Web Developer (Bangalore, India)",Associate,5,NA,Information Technology & Services,NA,Java Python Node.js JavaScript Ruby Angular React PHP,,,,,,,
+67,Amazon,Cloud Support Engineer - Bigdata/Hadoop #PS,Associate,,NA,Internet,NA,Oracle PostgreSQL C Spark Java Python SQL AWS,,,,,,,
+68,IBM,Practitioner - Finance and Administration Delivery,19 applicants,0,1,Information Technology & Services,NA,,,,,,,,
+69,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+70,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+71,HuQuo,Hiring for Developer,Entry level,2,8,Human Resources,NA,Java Spring SQL NodeJS AWS Hyperledger Ethereum R3 Corda,,,,,,,
+72,Binance,Engineering Lead,17 applicants,8,NA,Internet,NA,C,,,,,,,
+73,Tech Mahindra,OSS Solution Designers,60 applicants,2,4,Information Technology & Services,NA,Oracle,,,,,,,
+74,Oracle,Senior VBCS JET consultant,Associate,5,7,Information Technology & Services,NA,Oracle C,,,,,,,
+75,Tallyx,Python Developer,158 applicants,0,3,Financial Services,NA,Python,,,,,,,
+76,Signzy,Full stack developer,784 applicants,2,2,Computer Software,NA,NodeJS,,,,,,,
+77,HuQuo,Hiring for Developer,Entry level,2,8,Human Resources,NA,Java Spring SQL NodeJS AWS Hyperledger Ethereum R3 Corda,,,,,,,
+78,IBM,Senior Practitioner - Finance and Administration Delivery,38 applicants,2,4,Information Technology & Services,NA,Oracle,,,,,,,
+79,Think Future Technologies,Python Developer,309 applicants,,NA,Information Technology & Services,NA,C Python HTML5 JavaScript,,,,,,,
+80,IBM,Senior Practitioner - Finance and Administration Delivery,12 applicants,2,4,Information Technology & Services,NA,,,,,,,,
+81,Precisely | Trust in Data,Dotnet Developer,231 applicants,,NA,Information Technology & Services,NA,C# HTML5 CSS SQL Angular AWS,,,,,,,
+82,IBM,Senior Practitioner - Finance and Administration Delivery,Entry level,2,4,Information Technology & Services,NA,,,,,,,,
+83,Hike,Software Developer Engineer - iOS,Entry level,1,6,Internet,NA,C NA,,,,,,,
+84,JPMorgan Chase & Co.,Software Engineering - Java Full Stack,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+85,Binance,Engineering Lead,17 applicants,8,NA,Internet,NA,C,,,,,,,
+86,JPMorgan Chase & Co.,Full Stack Blockchain Software Engineer - Associate,Entry level,5,NA,Financial Services,NA,Java JavaScript React,,,,,,,
+87,Tallyx,Python Developer,159 applicants,0,3,Financial Services,NA,Python,,,,,,,
+88,IBM,Senior Practitioner - Finance and Administration Delivery,23 applicants,2,4,Information Technology & Services,NA,,,,,,,,
+89,Rebel Foods (Formerly Faasos),Software Development Engineers-Backend,302 applicants,,NA,Internet,NA,Spark Java Python Node.js SQL PHP,,,,,,,
+90,CoinSwitch,Senior Engineering Manager,234 applicants,,NA,Computer Software,NA,C,,,,,,,
+91,Oracle,Software Developer 4,Associate,7,NA,Information Technology & Services,NA,Oracle Java Python Node.js,,,,,,,
+92,IBM,Sr Industry Consultant-Asset Liability Management,10 applicants,15,NA,Information Technology & Services,NA,Oracle Python,,,,,,,
+93,JPMorgan Chase & Co.,Senior Software Engineer - Modern Java Stack,Associate,,NA,Financial Services,NA,C Java Spring SQL,,,,,,,
+94,IBM,Senior Practitioner - Finance and Administration Delivery,2 applicants,2,4,Information Technology & Services,NA,Oracle,,,,,,,
+95,Artivatic.ai [Insurtech],Artivatic.ai - Blockchain Developer - Solidity/Cryptography (3-5 yrs) Bangalore (Emerging Technologies & Roles),Entry level,,NA,Insurance,NA,C Node.js JavaScript Solidity,,,,,,,
+96,Amazon,Cloud Support Engineer - Bigdata/Hadoop #PS,Associate,,NA,Internet,NA,Oracle PostgreSQL C Spark Java Python SQL AWS,,,,,,,
+97,IBM,Practitioner - Finance and Administration Delivery,14 applicants,0,1,Information Technology & Services,NA,,,,,,,,
+98,Oracle,Principal Consultant - Apex/ HTML5/ OCI Specialist,Associate,5,7,Information Technology & Services,NA,Oracle C HTML5 ReactJS AngularJS SQL JavaScript AngularJS Azure AWS,,,,,,,
+99,Jobs via eFinancialCareers,Software Engineering - Java Full Stack,Entry level,5,NA,Staffing & Recruiting,NA,Java JavaScript React,,,,,,,
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Infosys,Full Stack Developer,Entry level,4,NA,Information Technology & Services,NA,Oracle C Java Spring SQL Angular NodeJS
+2,Equisoft,Full Stack Developer,Entry level,5,2,Information Technology & Services,NA,Oracle C C# HTML5 ReactJS ASP.NET SQL JavaScript React
+3,BNY Mellon,"Senior Specialist, Full-Stack Developer",Mid-Senior level,7,10,Financial Services,NA,Oracle Spark Java HTML5 CSS SQL Angular CSS3
+4,Cognizant,Full Stack Developer,Entry level,6,5,Information Technology & Services,NA,CSS JavaScript Angular
+5,JPMorgan Chase & Co.,Full Stack Developer,Entry level,4,3,Financial Services,NA,Java Node.js HTML5 Spring JavaScript React NodeJS AWS
+6,Kandji,Full Stack Engineer,Mid-Senior level,3,NA,Computer Software,NA,Python JavaScript React
+7,The Bachrach Group,Full Stack Developer,Mid-Senior level,10,NA,Staffing & Recruiting,NA,PostgreSQL SQL React AWS
+8,TruSight,Full Stack Developer,Entry level,5,NA,Financial Services,NA,C C# SQL JavaScript Angular React NodeJS Azure
+9,Tiffany & Co.,Full Stack Developer,Entry level,3,NA,Luxury Goods & Jewelry,NA,Java SQL
+10,Origami Risk,Full-Stack Developer,Mid-Senior level,5,NA,Computer Software,NA,C C# ASP.NET CSS SQL
+11,Slalom,Full-Stack Developer,Entry level,,NA,Management Consulting,NA,Oracle PostgreSQL C# Java Python Node.js CSS SQL JavaScript Angular React Azure AWS
+12,Stirling Brandworks,Full Stack Developer,Entry level,,NA,Internet,NA,C Node.js Angular React
+13,Quantgene,Full Stack Developer,Mid-Senior level,3,NA,Biotechnology,NA,JavaScript Angular React AWS
+14,LTI - Larsen & Toubro Infotech,Java Full Stack Developer,Mid-Senior level,,NA,Information Technology & Services,NA,PostgreSQL C Java Python Node.js ReactJS C++ CSS SQL Angular
+15,Meredith Corporation,Full Stack Engineer,Entry level,5,NA,Media Production,NA,Python CSS Spring JavaScript Ruby React
+16,ReverbNation,Full Stack Web Developer,Mid-Senior level,3,NA,Computer Software,NA,C Node.js CSS Ruby Angular React
+17,Ginger,Senior Full-stack Engineer,Mid-Senior level,5,3,"Health, Wellness & Fitness",NA,C Python Node.js ReactJS AngularJS CSS SQL AngularJS AWS
+18,Horizontal Talent,Jr. Full Stack Developer,Entry level,,NA,Staffing & Recruiting,NA,NA JavaScript PHP AWS
+19,Booz Allen Hamilton,"Full Stack Developer, Junior",Entry level,1,NA,Information Technology & Services,NA,Java Python JavaScript
+20,The College Board,Full Stack Developer,Entry level,4,NA,Education Management,NA,C Node.js React AWS
+21,Mathematica,Junior Full Stack Developer,Entry level,,NA,Research,NA,C# Java JavaScript Ruby
+22,Stripe,"Full Stack Engineer, Climate",Mid-Senior level,,NA,Internet,NA,
+23,IBM,Full Stack Software Engineer,Mid-Senior level,2,NA,Information Technology & Services,NA,Java Node.js NA JavaScript
+24,Simons Foundation,Full Stack Engineer,Associate,,NA,Research,NA,Python React
+25,Biteable,Full Stack Developer,Mid-Senior level,,NA,Computer Software,NA,JavaScript Ruby AWS
+26,Crayon,Senior Full Stack Developer,Mid-Senior level,8,NA,Information Technology & Services,NA,Oracle C C# SQL JavaScript React Azure AWS
+27,Collabera Inc.,Full-Stack Software Developer,Mid-Senior level,17,NA,Information Technology & Services,NA,C C# Python JavaScript Azure AWS
+28,Roadster,Full-Stack Engineer - Remote,Entry level,3,NA,Automotive,NA,CSS JavaScript
+29,FedEx,Fullstack Developer,Mid-Senior level,3,NA,Package/Freight Delivery,NA,Java Spring
+30,maven,Full Stack Engineer,Mid-Senior level,4,NA,Staffing & Recruiting,NA,
+31,Sogeti,Full Stack Developer,Mid-Senior level,2,401,Information Technology & Services,NA,PostgreSQL Java NA Spring SQL Angular
+32,Apptronic Labs,Full Stack Engineer,Mid-Senior level,,NA,Computer Software,NA,Node.js Ruby React AWS
+33,Illumix,Full Stack Engineer,Mid-Senior level,4,3,Computer Games,NA,Node.js SQL React
+34,Poppy Seed Health,Full Stack Developer,Mid-Senior level,6,NA,"Health, Wellness & Fitness",NA,Node.js CSS JavaScript React
+35,Stirling Brandworks,Full Stack Developer,Entry level,,NA,Internet,NA,C Node.js Angular React
+36,Cystems Logic Inc,Full Stack Developer - Plano - TX,Entry level,,NA,Information Technology & Services,NA,CSS SQL Angular
+37,Transactly,Full Stack Developer,Mid-Senior level,2,3,Real Estate,NA,Java CSS JavaScript AWS
+38,Origami Risk,Full-Stack Developer,Mid-Senior level,5,NA,Computer Software,NA,C C# ASP.NET CSS SQL
+39,Circonus,Full Stack Developer,Entry level,,NA,Information Technology & Services,NA,HTML5 CSS JavaScript CSS3
+40,Sandalwood Engineering & Ergonomics,Full Stack Developer,Associate,,NA,Management Consulting,NA,Java
+41,Sayari Labs,Senior Full Stack Developer,Mid-Senior level,3,NA,Computer Software,NA,C SQL JavaScript React
+42,Insight Global,Full Stack Developer,Mid-Senior level,2,6,Staffing & Recruiting,NA,Java Spring React
+43,GenUI,Full Stack Engineer,Mid-Senior level,5,NA,Computer Software,NA,Java Spring PHP
+44,GenapSys,Full Stack Developer,Entry level,5,NA,Biotechnology,NA,C# Java NA CSS SQL JavaScript Angular React AWS
+45,"DRANNEK CONSULTING, LLC",Full Stack Engineer,Entry level,4,401,Human Resources,NA,React AWS
+46,DocNetwork,Full Stack Developer,Entry level,3,NA,Computer Software,NA,Node.js AngularJS SQL JavaScript AngularJS React
+47,PK,Full Stack Developer,Entry level,365,365,Information Technology & Services,NA,C# SQL JavaScript Azure
+48,Ind-US Target LLC,Full Stack Developer,Executive,8,NA,Staffing & Recruiting,NA,C HTML5 CSS JavaScript CSS3
+49,Playwire,Full Stack Developer,Mid-Senior level,,NA,Marketing & Advertising,NA,HTML5 SQL JavaScript Ruby CSS3 AWS
+50,LT Harper - Cyber Security Recruitment,Full Stack Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Spark Java Spring SQL AWS
+51,Huxley,Senior Full Stack Developer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Java JavaScript Angular React
+52,Aurora,Full Stack Engineer,Entry level,,NA,Automotive,NA,PostgreSQL Python C++ SQL JavaScript React AWS
+53,Reggora,Sr. Full-Stack Developer,Mid-Senior level,3,NA,Computer Software,NA,Spark NA JavaScript React
+54,Wipro Limited,.Net Full Stack Developer with React and AWS,Mid-Senior level,5,NA,Information Technology & Services,NA,C# SQL React Azure AWS
+55,GiveDirectly,Full Stack Engineer,Entry level,,NA,Non-profit Organization Management,NA,Python SQL Ruby React
+56,GiveDirectly,Full Stack Engineer,Entry level,,NA,Non-profit Organization Management,NA,Python SQL Ruby React
+57,Zola Media LLC,Full Stack Developer,Entry level,2,NA,Internet,NA,C# ASP.NET SQL JavaScript CSS3
+58,Swoon,Full Stack Web Developer,Mid-Senior level,5,3,Staffing & Recruiting,NA,C# HTML5 ASP.NET SQL CSS3
+59,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+60,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+61,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+62,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+63,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+64,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+65,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+66,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+67,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+68,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+69,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+70,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+71,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+72,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+73,NestEgg.rent,Full Stack Engineer,Entry level,,NA,Real Estate,NA,Java Spring Angular AWS
+74,Ria Financial,Full Stack Developer,Associate,4,7,Financial Services,NA,C# HTML5 NA CSS SQL Angular
+75,Zillow,Full Stack Software Development Engineer - ClickStream - Remote Position,Entry level,,NA,Real Estate,NA,Spark JavaScript AWS
+76,Austin Fraser,Full Stack Engineer,Mid-Senior level,5,3,Staffing & Recruiting,NA,Python AngularJS SQL AngularJS Angular React
+77,Aspen Technology,Full Stack Developer - C++,Associate,,NA,Computer Software,NA,C C++ C/C++ CSS SQL JavaScript Angular React
+78,SkyHive,Senior Full Stack Developer,Mid-Senior level,,NA,Computer Software,NA,C# SQL Angular
+79,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+80,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+81,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+82,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+83,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+84,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+85,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+86,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+87,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+88,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+89,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+90,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+91,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+92,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+93,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+94,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+95,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+96,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+97,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+98,Runding Corporation,Full Stack Developer,Mid-Senior level,3,NA,Computer Software,NA,C Azure
+99,Stealth Startup Lab,Senior Full Stack Developer,Mid-Senior level,8,NA,Computer Software,NA,HTML5 CSS React AWS
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP,Azure,AWS,Hyperledger,Ethereum,R3,Corda,Quorum,Golang,Solidity,Vyper
+5,17,24,4,15,33,19,13,9,3,3,6,5,3,0,1,19,23,0,43,43,20,3,33,50,6,12,3,2,7,47,0,0,0,0,0,0,0,0
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Infosys,Full Stack Developer,Mid-Senior level,4,NA,Information Technology & Services,NA,Oracle Spark Java Python HTML5 ReactJS AngularJS CSS Spring Hibernate SQL JavaScript AngularJS AWS
+2,Goldman Sachs,"Full-stack Developer - CIMD, Digital Storefront",Entry level,150,NA,Financial Services,NA,Java HTML5 Spring SQL React AWS
+3,BNY Mellon,"Senior Specialist, Full-Stack Developer",Mid-Senior level,7,10,Financial Services,NA,Oracle Spark Java HTML5 CSS SQL Angular CSS3
+4,Cognizant,Full Stack Developer,Entry level,6,5,Information Technology & Services,NA,CSS JavaScript Angular
+5,JPMorgan Chase & Co.,Full Stack Developer,Entry level,4,3,Financial Services,NA,Java Node.js HTML5 Spring JavaScript React NodeJS AWS
+6,Ginger,Senior Full-stack Engineer,Mid-Senior level,5,3,"Health, Wellness & Fitness",NA,C Python Node.js ReactJS AngularJS CSS SQL AngularJS AWS
+7,Slalom,Full-Stack Developer,Entry level,,NA,Management Consulting,NA,Oracle PostgreSQL C# Java Python Node.js CSS SQL JavaScript Angular React Azure AWS
+8,Stirling Brandworks,Full Stack Developer,Entry level,,NA,Internet,NA,C Node.js Angular React
+9,Wipro Limited,Full Stack Engineer,Mid-Senior level,7,10,Information Technology & Services,NA,HTML5 SQL JavaScript Angular React Azure AWS
+10,LTI - Larsen & Toubro Infotech,Full Stack Engineer,Mid-Senior level,20,NA,Information Technology & Services,NA,Python AngularJS JavaScript AngularJS NodeJS
+11,The College Board,Full Stack Developer,Entry level,4,NA,Education Management,NA,C Node.js React AWS
+12,Origami Risk,Full-Stack Developer,Mid-Senior level,5,NA,Computer Software,NA,C C# ASP.NET CSS SQL
+13,Jobot,Full Stack Developer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Python JavaScript Ruby Angular React AWS
+14,LaunchPad Lab,Full Stack Software Developer,Entry level,100,100,Computer Software,NA,C JavaScript Ruby Angular React
+15,HCL Technologies,Full Stack Web Developer,Mid-Senior level,5,NA,Information Technology & Services,NA,ReactJS CSS JavaScript React PHP
+16,Sayari Labs,Senior Full Stack Developer,Mid-Senior level,3,NA,Computer Software,NA,C SQL JavaScript React
+17,ShipEngine,Full-Stack Engineer,Entry level,,NA,Logistics & Supply Chain,NA,Node.js CSS JavaScript React
+18,The Bachrach Group,Full Stack Developer,Mid-Senior level,10,NA,Staffing & Recruiting,NA,PostgreSQL SQL React AWS
+19,Tata Consultancy Services,Developer,Entry level,12,8,Information Technology & Services,NA,C# SQL Azure
+20,Schneider Electric,Full Stack Developer,Entry level,5,NA,Electrical & Electronic Manufacturing,NA,Java NodeJS Azure AWS
+21,Simons Foundation,Full Stack Engineer,Associate,,NA,Research,NA,Python React
+22,Stripe,"Full Stack Engineer, Climate",Mid-Senior level,,NA,Internet,NA,
+23,Torch,Full Stack Engineer,Associate,,NA,Professional Training & Coaching,NA,C# Java Python CSS Ruby React AWS
+24,Tiffany & Co.,Full Stack Developer,Entry level,3,NA,Luxury Goods & Jewelry,NA,Java SQL
+25,The Bachrach Group,Full Stack Developer,Mid-Senior level,10,NA,Staffing & Recruiting,NA,PostgreSQL SQL React AWS
+26,Apptronic Labs,Full Stack Engineer,Mid-Senior level,,NA,Computer Software,NA,Node.js Ruby React AWS
+27,Zappos Family of Companies,Full Stack Engineer,Mid-Senior level,3,NA,Retail,NA,Java Python Node.js CSS Spring JavaScript Ruby Azure AWS
+28,OpenZeppelin,Full stack Ethereum Developer,Entry level,3,NA,Computer Software,NA,Angular React NodeJS AWS Ethereum
+29,Sogeti,Full Stack Developer,Mid-Senior level,2,401,Information Technology & Services,NA,PostgreSQL Java NA Spring SQL Angular
+30,Cardinal Health,Full Stack Developer,Entry level,,NA,Hospital & Health Care,NA,Java CSS Spring SQL JavaScript Angular React
+31,Kandji,Full Stack Engineer,Mid-Senior level,3,NA,Computer Software,NA,Python JavaScript React
+32,FedEx,Fullstack Developer,Mid-Senior level,3,NA,Package/Freight Delivery,NA,Java Spring
+33,Kimberly-Clark,Full Stack Developer,Entry level,2,NA,Consumer Goods,NA,C C# CSS JavaScript Angular Azure
+34,Podimetrics,Full Stack Developer,Associate,10,NA,Medical Device,NA,SQL JavaScript Azure AWS
+35,Poppy Seed Health,Full Stack Developer,Mid-Senior level,6,NA,"Health, Wellness & Fitness",NA,Node.js CSS JavaScript React
+36,maven,Full Stack Engineer,Mid-Senior level,4,NA,Staffing & Recruiting,NA,
+37,Mathematica,Junior Full Stack Developer,Entry level,,NA,Research,NA,C# Java JavaScript Ruby
+38,Quantgene,Full Stack Developer,Mid-Senior level,3,NA,Biotechnology,NA,JavaScript Angular React AWS
+39,Goldman Sachs,"Full-stack Developer - CIMD, Digital Storefront",Entry level,150,NA,Financial Services,NA,Java HTML5 Spring SQL React AWS
+40,Insight Global,Full Stack Developer,Mid-Senior level,2,6,Staffing & Recruiting,NA,Java Spring React
+41,Collabera Inc.,Full Stack developer,Director,7,10,Information Technology & Services,NA,Oracle Java Spring
+42,Interactive Resources - iR,"Full Stack Developer (100% remote - Python, React, Django)",Mid-Senior level,4,NA,Staffing & Recruiting,NA,PostgreSQL Python CSS SQL JavaScript React AWS
+43,IBM,Full Stack Software Engineer,Mid-Senior level,2,NA,Information Technology & Services,NA,Java Node.js NA JavaScript
+44,Horizontal Talent,Jr. Full Stack Developer,Entry level,,NA,Staffing & Recruiting,NA,NA JavaScript PHP AWS
+45,Accenture,Full Stack Java Engineer,Entry level,3,2,Information Technology & Services,NA,Java CSS Spring React CSS3 Azure
+46,FedEx Services,Full Stack Developer I & II,Entry level,2,NA,Transportation/Trucking/Railroad,NA,Java Spring
+47,Roadster,Full-Stack Engineer - Remote,Entry level,3,NA,Automotive,NA,CSS JavaScript
+48,Kofi Group,Full Stack Developer,Entry level,,NA,Staffing & Recruiting,NA,SQL React
+49,Kofi Group,Full Stack Developer,Entry level,,NA,Staffing & Recruiting,NA,SQL React
+50,LT Harper - Cyber Security Recruitment,Full Stack Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Spark Java Spring SQL AWS
+51,i2i Population Health,Full Stack Developer,Associate,2,2,Information Technology & Services,NA,Oracle C C# ASP.NET SQL Angular Azure AWS
+52,Reggora,Sr. Full-Stack Developer,Mid-Senior level,3,NA,Computer Software,NA,Spark NA JavaScript React
+53,Broadcom Inc.,Full Stack Developer,Mid-Senior level,7,10,Semiconductors,NA,Spark Java Python Node.js HTML5 C++ CSS JavaScript Angular React
+54,Transactly,Full Stack Developer,Mid-Senior level,2,3,Real Estate,NA,Java CSS JavaScript AWS
+55,Huxley,Senior Full Stack Developer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Java JavaScript Angular React
+56,Intechriti,Full Stack Engineer,Mid-Senior level,2,5,Staffing & Recruiting,NA,Node.js JavaScript Angular React CSS3
+57,Playwire,Full Stack Developer,Mid-Senior level,,NA,Marketing & Advertising,NA,HTML5 SQL JavaScript Ruby CSS3 AWS
+58,Confidential,Full Stack Engineer,Entry level,3,5,Privately Held,NA,React Scala AWS
+59,GenUI,Full Stack Engineer,Mid-Senior level,5,NA,Computer Software,NA,Java Spring PHP
+60,SkyHive,Senior Full Stack Developer,Mid-Senior level,,NA,Computer Software,NA,C# SQL Angular
+61,DiDi,Full Stack Software Engineer (User Growth),Entry level,3,NA,Internet,NA,Java Python C++ CSS Spring SQL JavaScript React AWS
+62,SpaceIQ,Full Stack Engineer,Entry level,,NA,Computer Software,NA,PostgreSQL SQL JavaScript Ruby React Scala AWS
+63,TruSight,Full Stack Developer,Entry level,5,NA,Financial Services,NA,C C# SQL JavaScript Angular React NodeJS Azure
+64,Machina Automation,Full Stack Developer,Associate,2,NA,Management Consulting,NA,C# NA CSS SQL
+65,GiveDirectly,Full Stack Engineer,Entry level,,NA,Non-profit Organization Management,NA,Python SQL Ruby React
+66,ReverbNation,Full Stack Web Developer,Mid-Senior level,3,NA,Computer Software,NA,C Node.js CSS Ruby Angular React
+67,Royal & Ross,Full Stack Developer,Mid-Senior level,4,NA,Staffing & Recruiting,NA,Node.js Golang React PHP Golang
+68,Ribbon,Full-Stack Software Engineer,Entry level,,NA,Real Estate,NA,C Python JavaScript Ruby React AWS
+69,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+70,Ind-US Target LLC,Full Stack Developer,Executive,8,NA,Staffing & Recruiting,NA,C HTML5 CSS JavaScript CSS3
+71,Zillow,Full Stack Software Development Engineer - ClickStream - Remote Position,Entry level,,NA,Real Estate,NA,Spark JavaScript AWS
+72,"Reibus International, Inc.",Full Stack Developer,Associate,2,NA,Internet,NA,C React AWS
+73,Watts Water Technologies,Full-Stack Engineer,Mid-Senior level,3,NA,Building Materials,NA,C Spark HTML5 CSS SQL JavaScript PHP
+74,Komodo Health,Full-Stack Engineer,Entry level,,NA,Computer Software,NA,C Python React
+75,Zillow,Full Stack Software Development Engineer - ClickStream - Remote Position,Entry level,,NA,Real Estate,NA,Spark JavaScript AWS
+76,Arizona State University,Full-Stack Web/Mobile Developer,Mid-Senior level,2,6,Higher Education,NA,ReactJS JavaScript AWS
+77,Nuspire,Full Stack Developer,Mid-Senior level,20,NA,Computer & Network Security,NA,C SQL JavaScript React NodeJS AWS
+78,Crayon,Senior Full Stack Developer,Mid-Senior level,8,NA,Information Technology & Services,NA,Oracle C C# SQL JavaScript React Azure AWS
+79,SS&C Technologies,Full Stack Developer,Entry level,3,NA,Computer Software,NA,C Node.js HTML5 SQL JavaScript Angular React CSS3 AWS
+80,Poly,Full Stack Developer (Remote or Onsite),Mid-Senior level,5,NA,Telecommunications,NA,JavaScript React AWS
+81,Poly,Full Stack Developer (Remote or Onsite),Mid-Senior level,5,NA,Telecommunications,NA,JavaScript React AWS
+82,Poly,Full Stack Developer (Remote or Onsite),Mid-Senior level,5,NA,Telecommunications,NA,JavaScript React AWS
+83,Poly,Full Stack Developer (Remote or Onsite),Mid-Senior level,5,NA,Telecommunications,NA,JavaScript React AWS
+84,Poly,Full Stack Developer (Remote or Onsite),Mid-Senior level,5,NA,Telecommunications,NA,JavaScript React AWS
+85,Swoon,Full Stack Web Developer,Mid-Senior level,5,3,Staffing & Recruiting,NA,C# HTML5 ASP.NET SQL CSS3
+86,Swoon,Full Stack Web Developer,Mid-Senior level,5,3,Staffing & Recruiting,NA,C# HTML5 ASP.NET SQL CSS3
+87,Sandalwood Engineering & Ergonomics,Full Stack Developer,Associate,,NA,Management Consulting,NA,Java
+88,Rivers Agency,Full Stack Developer,Entry level,,NA,Marketing & Advertising,NA,CSS JavaScript Angular AWS
+89,NCR Corporation,Full Stack Engineer,Mid-Senior level,2,4,Information Technology & Services,NA,Java Node.js JavaScript Angular React
+90,Modis,Full Stack Engineer,Mid-Senior level,5,NA,Information Technology & Services,NA,SQL
+91,Virtusa,Full stack Java developer,Mid-Senior level,,NA,Information Technology & Services,NA,Java Spring React NodeJS
+92,Iterative Scopes,Full Stack Engineer,Entry level,5,3,Computer Software,NA,PostgreSQL SQL React AWS
+93,Circonus,Full Stack Developer,Entry level,,NA,Information Technology & Services,NA,HTML5 CSS JavaScript CSS3
+94,Verdigris,Full Stack Engineer,Entry level,3,NA,Computer Software,NA,C JavaScript Angular AWS
+95,Verdigris,Full Stack Engineer,Entry level,3,NA,Computer Software,NA,C JavaScript Angular AWS
+96,Defendify,Senior Full Stack Developer,Associate,5,NA,Computer & Network Security,NA,CSS SQL JavaScript
+97,"Resolute Digital, a Weber Shandwick Company",Full Stack Developer,Entry level,2,3,Marketing & Advertising,NA,C SQL PHP
+98,managr,Sr. Full Stack Developer,Associate,,NA,Computer Software,NA,Python JavaScript React
+99,Convex,Full Stack Engineer,Mid-Senior level,5,3,Computer Software,NA,Oracle C Python Ruby Angular React AWS
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP,Azure,AWS,Hyperledger,Ethereum,R3,Corda,Quorum,Golang,Solidity,Vyper
+7,7,23,8,13,28,18,16,14,4,3,5,4,2,1,0,26,16,1,38,53,12,3,25,55,9,2,7,6,11,45,0,1,0,0,0,1,0,0
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Amazon,Front-End Engineer II,Mid-Senior level,4,5,Internet,NA,Node.js HTML5 CSS JavaScript Angular React AWS
+2,Lifeblue,Front-End Developer,Entry level,,NA,Internet,NA,HTML5 NA JavaScript CSS3
+3,UBTECH Robotics,Front End Developer,Mid-Senior level,5,5,Consumer Electronics,NA,C# Python HTML5 C++ JavaScript React
+4,Tata Consultancy Services,front End Developer,Entry level,7184436,1,Information Technology & Services,NA,Java React NodeJS
+5,Accenture,Front End Web Developer,Mid-Senior level,1,1,Information Technology & Services,NA,Java Node.js ReactJS CSS Ruby Angular NodeJS Azure AWS
+6,Expedia Group,UI Developer II,Entry level,3,5,Internet,NA,Node.js CSS JavaScript React AWS
+7,JPMorgan Chase & Co.,Full Stack Front End Developer,Entry level,3,NA,Financial Services,NA,Angular React Hyperledger Ethereum
+8,Amazon Web Services (AWS),Sr. Front End Developer,Associate,8,NA,Information Technology & Services,NA,C Java Python Node.js CSS JavaScript Ruby Angular React Scala AWS
+9,"InvestCloud, Inc.",Jr. Front End Developer,Entry level,,NA,Financial Services,NA,CSS
+10,Cognizant,Front-end Web Developer,Entry level,,NA,Information Technology & Services,NA,HTML5 CSS JavaScript
+11,Booz Allen Hamilton,Front End Web Developer,Entry level,4,4,Information Technology & Services,NA,Java JavaScript Angular React
+12,Q2,Front End Developer,Entry level,5,2,Financial Services,NA,CSS SQL JavaScript
+13,Applied Medical,Front End Developer,Entry level,3,NA,Medical Device,NA,JavaScript React
+14,ClickBank,Front End Developer,Entry level,,NA,Internet,NA,Java HTML5 CSS SQL JavaScript React CSS3 NodeJS
+15,Goldman Sachs,"Front-end Developer - CIMD, Digital Storefront",Entry level,150,NA,Financial Services,NA,Java HTML5 React
+16,Bridge Investment Group,Front-End Developer,Entry level,1,401,Real Estate,NA,Python ReactJS CSS SQL JavaScript React Azure
+17,Creative Circle,Jr Front End Developer (+Design Skills),Entry level,2,206,Staffing & Recruiting,NA,
+18,"Spectrum Communications & Consulting, Inc.",Front End Developer,Entry level,,NA,Internet,NA,C NA CSS JavaScript Azure
+19,Jobot,Jr. Front End Developer,Entry level,,NA,Staffing & Recruiting,NA,CSS JavaScript
+20,commercetools,Front End Developer,Associate,5,6,Internet,NA,Node.js NA CSS SQL JavaScript React
+21,Torch.AI,Front End Developer,Mid-Senior level,4,NA,Information Technology & Services,NA,Python SQL React NodeJS Azure
+22,Zipari,Front End Developer,Entry level,5,5,Computer Software,NA,HTML5 SQL JavaScript Angular
+23,AKQA,Front-End Developer,Associate,4,5,Design,NA,CSS JavaScript Angular React
+24,Charles River Laboratories,Front End Developer,Entry level,,NA,Biotechnology,NA,CSS JavaScript Angular React
+25,Optello,100% REMOTE Front End Developer,Entry level,100,3,Staffing & Recruiting,NA,CSS JavaScript Angular React PHP
+26,Barnes Foundation,Front-End Web Developer,Associate,2,2,Museums & Institutions,NA,C CSS React AWS
+27,Insight,Front End Developer,Mid-Senior level,100,3,Information Technology & Services,NA,C ASP.NET CSS Spring SQL JavaScript Angular
+28,FreightWaves,Front End Developer,Mid-Senior level,5,NA,Online Media,NA,HTML5 CSS JavaScript CSS3
+29,"Plume Design, Inc",Front-End Software Developer,Entry level,,NA,Internet,NA,C AngularJS CSS JavaScript AngularJS Angular React AWS
+30,Crowne Consulting Inc,Front End Developer,Mid-Senior level,,NA,Insurance,NA,C
+31,Superfly,Front-End Developer (Project Based),Mid-Senior level,2,NA,Entertainment,NA,CSS JavaScript React
+32,Berke,Front-end Developer,Mid-Senior level,8,3,Human Resources,NA,CSS Angular AWS
+33,Radix Labs,Front End ScalaJS Web Developer,Entry level,5,NA,Biotechnology,NA,Java React Scala
+34,Stratacent,Front End UI Developer,Entry level,9,NA,Information Technology & Services,NA,Java Python ReactJS CSS SQL Angular NodeJS AWS
+35,Taylor Corporation,Front End Developer,Entry level,5,NA,Printing,NA,C CSS JavaScript
+36,CyberCoders,Remote Front End Developer,Entry level,,NA,Staffing & Recruiting,NA,JavaScript Angular React PHP
+37,Union,Front-End Web Developer,Entry level,,NA,Marketing & Advertising,NA,CSS JavaScript
+38,Workload,Front-End React Developer,Entry level,,NA,Computer Software,NA,Python CSS SQL JavaScript Angular React AWS
+39,Robert Half,Front-end Developer,Entry level,,NA,Staffing & Recruiting,NA,ASP.NET CSS JavaScript Ruby PHP
+40,RiverCap Holdings,Front-end Developer,Entry level,4,NA,Venture Capital & Private Equity,NA,C# C++ CSS SQL JavaScript Azure
+41,Sonic Boom Wellness,Front End Developer,Entry level,1,46,"Health, Wellness & Fitness",NA,CSS JavaScript React PHP
+42,Cypress HCM,Front-end Developer,Mid-Senior level,50,25,Staffing & Recruiting,NA,Angular React Azure
+43,Cypress HCM,Front-end Developer,Mid-Senior level,50,25,Staffing & Recruiting,NA,Angular React Azure
+44,Lab49,Senior Front End Developer,Mid-Senior level,10,NA,Financial Services,NA,C HTML5 NA JavaScript React CSS3
+45,Two Barrels LLC,UI/UX Front-End Developer,Mid-Senior level,,NA,Computer Software,NA,CSS JavaScript
+46,The Judge Group,Front End Mobile Developer,Mid-Senior level,9,3,Information Technology & Services,NA,C C# AngularJS ASP.NET SQL AngularJS Angular CSS3
+47,Parler,Front End Developer II,Entry level,4,NA,Internet,NA,CSS JavaScript Angular
+48,Perficient,Front-end Developer,Mid-Senior level,2,5,Information Technology & Services,NA,HTML5 NA CSS JavaScript Angular
+49,Vanguard,Client Experience Sr. Front End Engineer,Mid-Senior level,3,NA,Financial Services,NA,Java Spring JavaScript
+50,Firewood,Senior Front End Developer,Associate,5,NA,Marketing & Advertising,NA,CSS
+51,CoStar Group,Senior Front End Developer - Analytics,Associate,3,NA,Information Technology & Services,NA,C HTML5 NA CSS JavaScript React CSS3
+52,Dice,Front End Developer,Entry level,2,NA,Internet,NA,CSS JavaScript Angular
+53,Signature Consultants,Front End Developer,Mid-Senior level,5,50,Staffing & Recruiting,NA,Java JavaScript React
+54,Fingerpaint,Senior Front End Developer,Mid-Senior level,5,6,Marketing & Advertising,NA,Node.js CSS JavaScript React
+55,EPAM Systems,Lead Front-End Developer,Mid-Senior level,,NA,Information Technology & Services,NA,React
+56,Rooms To Go,Senior Front End Developer,Mid-Senior level,5,6,Furniture,NA,HTML5 CSS JavaScript React
+57,LaSalle Network,Front-End / User Interface Developer,Entry level,5,3,Staffing & Recruiting,NA,C HTML5 AngularJS CSS SQL JavaScript Ruby AngularJS Angular CSS3 PHP
+58,Mizzen+Main,Front End Web Developer,Entry level,,NA,Apparel & Fashion,NA,CSS JavaScript
+59,Stealth Startup Lab,Senior Front End React Developer,Mid-Senior level,6,NA,Computer Software,NA,HTML5 CSS React
+60,Circle Graphics,Front End Developer,Associate,4,NA,Printing,NA,C C# ASP.NET CSS JavaScript
+61,Melaleuca:The Wellness Company,Front-end Web Developer II- (Escape the crowds by relocating to Idaho),Director,2,4,"Health, Wellness & Fitness",NA,C Node.js CSS Angular AWS
+62,Americaneagle.com,Front End Developer,Entry level,2,NA,Internet,NA,CSS JavaScript
+63,ProcessMaker,Front End Web Developer,Entry level,,NA,Computer Software,NA,C NA JavaScript CSS3
+64,Munchkin,Magento Front-End Web Developer,Mid-Senior level,5,3,Consumer Goods,NA,HTML5 CSS JavaScript PHP
+65,The Phoenix Group,Lead Front End Developer,Mid-Senior level,5,NA,Staffing & Recruiting,NA,Python ReactJS JavaScript React
+66,True Source,Remote Front End Developer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Node.js React AWS
+67,"TBS Factoring Service, LLC",Front End Developer,Entry level,2,NA,Transportation/Trucking/Railroad,NA,HTML5 ReactJS AngularJS CSS JavaScript AngularJS CSS3
+68,Apptronic Labs,Front End Web Developer,Mid-Senior level,5,8,Computer Software,NA,CSS JavaScript Angular
+69,KPMG US,Sr Front End Developer,Mid-Senior level,,NA,Financial Services,NA,Spark CSS JavaScript React AWS
+70,Rooms To Go,Senior Front End Developer,Mid-Senior level,5,6,Furniture,NA,HTML5 CSS JavaScript React
+71,Collabera Inc.,Senior Front End (React) Developer,Mid-Senior level,,NA,Information Technology & Services,NA,JavaScript React AWS
+72,Apeiro Technologies,Front-end/UI developer,Entry level,2,6,Information Technology & Services,NA,CSS React
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Lifeblue,Front-End Developer,Entry level,,NA,Internet,NA,HTML5 NA JavaScript CSS3
+2,UBTECH Robotics,Front End Developer,Mid-Senior level,5,5,Consumer Electronics,NA,C# Python HTML5 C++ JavaScript React
+3,Amazon,Front-End Engineer II,Mid-Senior level,4,5,Internet,NA,Node.js HTML5 CSS JavaScript Angular React AWS
+4,Tata Consultancy Services,front End Developer,Entry level,7184436,1,Information Technology & Services,NA,Java React NodeJS
+5,Accenture,Front End Web Developer,Mid-Senior level,1,1,Information Technology & Services,NA,Java Node.js ReactJS CSS Ruby Angular NodeJS Azure AWS
+6,Expedia Group,UI Developer II,Entry level,3,5,Internet,NA,Node.js CSS JavaScript React AWS
+7,JPMorgan Chase & Co.,Full Stack Front End Developer,Entry level,3,NA,Financial Services,NA,Angular React Hyperledger Ethereum
+8,Amazon Web Services (AWS),Sr. Front End Developer,Associate,8,NA,Information Technology & Services,NA,C Java Python Node.js CSS JavaScript Ruby Angular React Scala AWS
+9,"InvestCloud, Inc.",Jr. Front End Developer,Entry level,,NA,Financial Services,NA,CSS
+10,Cognizant,Front-end Web Developer,Entry level,,NA,Information Technology & Services,NA,HTML5 CSS JavaScript
+11,Q2,Front End Developer,Entry level,5,2,Financial Services,NA,CSS SQL JavaScript
+12,Applied Medical,Front End Developer,Entry level,3,NA,Medical Device,NA,JavaScript React
+13,Bridge Investment Group,Front-End Developer,Entry level,1,401,Real Estate,NA,Python ReactJS CSS SQL JavaScript React Azure
+14,ClickBank,Front End Developer,Entry level,,NA,Internet,NA,Java HTML5 CSS SQL JavaScript React CSS3 NodeJS
+15,Goldman Sachs,"Front-end Developer - CIMD, Digital Storefront",Entry level,150,NA,Financial Services,NA,Java HTML5 React
+16,"Spectrum Communications & Consulting, Inc.",Front End Developer,Entry level,,NA,Internet,NA,C NA CSS JavaScript Azure
+17,Booz Allen Hamilton,Front End Web Developer,Entry level,4,4,Information Technology & Services,NA,Java JavaScript Angular React
+18,Creative Circle,Jr Front End Developer (+Design Skills),Entry level,2,206,Staffing & Recruiting,NA,
+19,Jobot,Jr. Front End Developer,Entry level,,NA,Staffing & Recruiting,NA,CSS JavaScript
+20,commercetools,Front End Developer,Associate,5,6,Internet,NA,Node.js NA CSS SQL JavaScript React
+21,Torch.AI,Front End Developer,Mid-Senior level,4,NA,Information Technology & Services,NA,Python SQL React NodeJS Azure
+22,Zipari,Front End Developer,Entry level,5,5,Computer Software,NA,HTML5 SQL JavaScript Angular
+23,Barnes Foundation,Front-End Web Developer,Associate,2,2,Museums & Institutions,NA,C CSS React AWS
+24,AKQA,Front-End Developer,Associate,4,5,Design,NA,CSS JavaScript Angular React
+25,Charles River Laboratories,Front End Developer,Entry level,,NA,Biotechnology,NA,CSS JavaScript Angular React
+26,Insight,Front End Developer,Mid-Senior level,100,3,Information Technology & Services,NA,C ASP.NET CSS Spring SQL JavaScript Angular
+27,Flexton Inc.,Immediate Hire!! Front End Developer,Mid-Senior level,,NA,Information Technology & Services,NA,Java
+28,Optello,100% REMOTE Front End Developer,Entry level,100,3,Staffing & Recruiting,NA,CSS JavaScript Angular React PHP
+29,Cotopaxi,Front End Developer,Mid-Senior level,3,6,Consumer Goods,NA,CSS JavaScript Angular React
+30,Mindera UK,Front-end React Developer,Associate,,NA,Computer Software,NA,C Java HTML5 ReactJS CSS JavaScript React
+31,Slalom,Front-end React Developer - Consultant,Entry level,3,3,Management Consulting,NA,CSS Angular React
+32,Covance,Front End Web Developer,Entry level,7,7,Research,NA,C Java CSS JavaScript
+33,"Plume Design, Inc",Front-End Software Developer,Entry level,,NA,Internet,NA,C AngularJS CSS JavaScript AngularJS Angular React AWS
+34,"Easy Breathe, Inc.",Jr. Front-End Developer,Entry level,,NA,Medical Device,NA,
+35,FreightWaves,Front End Developer,Mid-Senior level,5,NA,Online Media,NA,HTML5 CSS JavaScript CSS3
+36,Crowne Consulting Inc,Front End Developer,Mid-Senior level,,NA,Insurance,NA,C
+37,Superfly,Front-End Developer (Project Based),Mid-Senior level,2,NA,Entertainment,NA,CSS JavaScript React
+38,Berke,Front-end Developer,Mid-Senior level,8,3,Human Resources,NA,CSS Angular AWS
+39,Radix Labs,Front End ScalaJS Web Developer,Entry level,5,NA,Biotechnology,NA,Java React Scala
+40,Stratacent,Front End UI Developer,Entry level,9,NA,Information Technology & Services,NA,Java Python ReactJS CSS SQL Angular NodeJS AWS
+41,Taylor Corporation,Front End Developer,Entry level,5,NA,Printing,NA,C CSS JavaScript
+42,Apex Systems,Front End Developer,Entry level,2,2,Information Technology & Services,NA,Node.js HTML5 JavaScript CSS3
+43,CyberCoders,Remote Front End Developer,Entry level,,NA,Staffing & Recruiting,NA,JavaScript Angular React PHP
+44,Union,Front-End Web Developer,Entry level,,NA,Marketing & Advertising,NA,CSS JavaScript
+45,Workload,Front-End React Developer,Entry level,,NA,Computer Software,NA,Python CSS SQL JavaScript Angular React AWS
+46,Robert Half,Front-end Developer,Entry level,,NA,Staffing & Recruiting,NA,ASP.NET CSS JavaScript Ruby PHP
+47,RiverCap Holdings,Front-end Developer,Entry level,4,NA,Venture Capital & Private Equity,NA,C# C++ CSS SQL JavaScript Azure
+48,Sonic Boom Wellness,Front End Developer,Entry level,1,46,"Health, Wellness & Fitness",NA,CSS JavaScript React PHP
+49,Cypress HCM,Front-end Developer,Mid-Senior level,50,25,Staffing & Recruiting,NA,Angular React Azure
+50,Cypress HCM,Front-end Developer,Mid-Senior level,50,25,Staffing & Recruiting,NA,Angular React Azure
+51,Two Barrels LLC,UI/UX Front-End Developer,Mid-Senior level,,NA,Computer Software,NA,CSS JavaScript
+52,"Interior Logic Group, Inc.",Front End Developer III*,Associate,5,5,Design,NA,Java Python HTML5 CSS JavaScript Angular React CSS3 NodeJS
+53,Firewood,Senior Front End Developer,Associate,5,NA,Marketing & Advertising,NA,CSS
+54,Parler,Front End Developer II,Entry level,4,NA,Internet,NA,CSS JavaScript Angular
+55,Perficient,Front-end Developer,Mid-Senior level,2,5,Information Technology & Services,NA,HTML5 NA CSS JavaScript Angular
+56,Stealth Startup Lab,Senior Front End React Developer,Mid-Senior level,6,NA,Computer Software,NA,HTML5 CSS React
+57,Circle Graphics,Front End Developer,Associate,4,NA,Printing,NA,C C# ASP.NET CSS JavaScript
+58,The Judge Group,Front End Mobile Developer,Mid-Senior level,9,3,Information Technology & Services,NA,C C# AngularJS ASP.NET SQL AngularJS Angular CSS3
+59,Dice,Front End Developer,Entry level,2,NA,Internet,NA,CSS JavaScript Angular
+60,Signature Consultants,Front End Developer,Mid-Senior level,5,50,Staffing & Recruiting,NA,Java JavaScript React
+61,Fingerpaint,Senior Front End Developer,Mid-Senior level,5,6,Marketing & Advertising,NA,Node.js CSS JavaScript React
+62,Vanguard,Client Experience Sr. Front End Engineer,Mid-Senior level,3,NA,Financial Services,NA,Java Spring JavaScript
+63,Horizontal Talent,Front End Developer - Visualization,Entry level,3,NA,Staffing & Recruiting,NA,CSS JavaScript
+64,LaSalle Network,Front-End / User Interface Developer,Entry level,5,3,Staffing & Recruiting,NA,C HTML5 AngularJS CSS SQL JavaScript Ruby AngularJS Angular CSS3 PHP
+65,Mizzen+Main,Front End Web Developer,Entry level,,NA,Apparel & Fashion,NA,CSS JavaScript
+66,Melaleuca:The Wellness Company,Front-end Web Developer II- (Escape the crowds by relocating to Idaho),Director,2,4,"Health, Wellness & Fitness",NA,C Node.js CSS Angular AWS
+67,The Phoenix Group,Lead Front End Developer,Mid-Senior level,5,NA,Staffing & Recruiting,NA,Python ReactJS JavaScript React
+68,Munchkin,Magento Front-End Web Developer,Mid-Senior level,5,3,Consumer Goods,NA,HTML5 CSS JavaScript PHP
+69,Americaneagle.com,Front End Developer,Entry level,2,NA,Internet,NA,CSS JavaScript
+70,ProcessMaker,Front End Web Developer,Entry level,,NA,Computer Software,NA,C NA JavaScript CSS3
+71,True Source,Remote Front End Developer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Node.js React AWS
+72,Publishers Clearing House,Front End Developer/Engineer,Mid-Senior level,5,NA,Marketing & Advertising,NA,C HTML5 CSS JavaScript CSS3
+73,Cubic Corporation,Senior Front End Developer,Associate,,NA,Information Technology & Services,NA,Node.js CSS SQL JavaScript Angular React
+74,"TBS Factoring Service, LLC",Front End Developer,Entry level,2,NA,Transportation/Trucking/Railroad,NA,HTML5 ReactJS AngularJS CSS JavaScript AngularJS CSS3
+75,Apptronic Labs,Front End Web Developer,Mid-Senior level,5,8,Computer Software,NA,CSS JavaScript Angular
+76,Rooms To Go,Senior Front End Developer,Mid-Senior level,5,6,Furniture,NA,HTML5 CSS JavaScript React
+77,KPMG US,Sr Front End Developer,Mid-Senior level,,NA,Financial Services,NA,Spark CSS JavaScript React AWS
+78,Lab49,Senior Front End Developer,Mid-Senior level,10,NA,Financial Services,NA,C HTML5 NA JavaScript React CSS3
+79,Pledge It,Sr. React Front-end Developer,Associate,,NA,Fundraising,NA,CSS JavaScript
+80,Apeiro Technologies,Front-end/UI developer,Entry level,2,6,Information Technology & Services,NA,CSS React
+81,Forefront Solutions & Consultancies Ltd,Front End Web Developer,Mid-Senior level,5,8,Staffing & Recruiting,NA,CSS JavaScript Angular
+82,Sony Electronics,Web Producer Front End Developer,Mid-Senior level,3,5,Consumer Electronics,NA,CSS JavaScript
+83,Collabera Inc.,Senior Front End (React) Developer,Mid-Senior level,,NA,Information Technology & Services,NA,JavaScript React AWS
+84,Beachbody,Front End Web Developer,Entry level,4,5,"Health, Wellness & Fitness",NA,C HTML5 JavaScript Angular React CSS3
+85,STAND 8 Technology Services,Front End Developer,Entry level,2,3,Information Technology & Services,NA,CSS SQL JavaScript
+86,Alion Science and Technology,Front End Developer - 35151,Entry level,0,2,Defense & Space,NA,Node.js AngularJS CSS JavaScript AngularJS
+87,"IDR, Inc.",Front-End Developer,Mid-Senior level,4,NA,Staffing & Recruiting,NA,ReactJS CSS
+88,Cyber Sphere,Front-End developer,Entry level,5,3,Information Technology & Services,NA,CSS JavaScript React AWS
+89,Financial Technology Inc.,Senior Front End Developer,Associate,5,3,Investment Management,NA,ReactJS JavaScript Ruby NodeJS Azure AWS
+90,"Phynd Technologies, Inc.",React Front-End Developer,Entry level,3,5,Information Technology & Services,NA,C C# ASP.NET CSS JavaScript Angular React
+91,Mintex Tech,JavaScript Front-End Developer,Entry level,8,8,Information Technology & Services,NA,Node.js CSS SQL JavaScript Angular Azure
+92,Three Point Solutions Inc,Front-End Developer,Entry level,5,5,Staffing & Recruiting,NA,JavaScript React NodeJS AWS
+93,Barracuda,Front End Developer- React.js,Entry level,5,2,Information Technology & Services,NA,CSS JavaScript Angular React
+94,CoStar Group,Senior Front End Developer - Analytics,Associate,3,NA,Information Technology & Services,NA,C HTML5 NA CSS JavaScript React CSS3
+95,Thorium Digital,Front End Web Developer - No C2C,Entry level,3,5,Marketing & Advertising,NA,C Node.js HTML5 CSS SQL JavaScript React PHP AWS
+96,Pionear Recruiting,Front End Web Developer,Entry level,5,3,Staffing & Recruiting,NA,Java CSS Spring Angular NodeJS
+97,"Waterfall Technology Consulting Partners, LLC",Front-end Developer,Mid-Senior level,6,NA,Staffing & Recruiting,NA,AngularJS CSS JavaScript AngularJS React Azure AWS
+98,"LanceSoft, Inc.",Front End Developer,Entry level,,NA,Information Technology & Services,NA,JavaScript React
+99,BitPay,UI Developer,Associate,3,5,Financial Services,NA,CSS JavaScript Angular React
+100,TIBCO,Drupal Front End Web Developer,Mid-Senior level,5,5,Computer Software,NA,JavaScript
+101,Zilker Partners,Front End Mobile Software Engineer (Flutter),Mid-Senior level,5,3,Staffing & Recruiting,NA,PostgreSQL Golang SQL AWS Golang
+102,EPAM Systems,Lead Front-End Developer,Mid-Senior level,,NA,Information Technology & Services,NA,React
+103,EveryMundo,Front end Engineer (Data Analytics),Associate,,NA,Computer Software,NA,HTML5 AngularJS SQL JavaScript AngularJS
+104,FIS,Senior Front End Developer - New Venture,Associate,10,5,Information Technology & Services,NA,C HTML5 JavaScript Angular React NodeJS
+105,"Crown Consulting, Inc.",Frontend Developer,Mid-Senior level,,NA,Government Relations,NA,C
+106,Kaseya,Software Development Engineer-Front End Developer,Entry level,3,2,Computer Software,NA,C# SQL JavaScript Angular
+107,Duckpin,Web Developer Front End,Entry level,4,2,Marketing & Advertising,NA,PostgreSQL Node.js CSS Spring SQL JavaScript Angular React
+108,True Team Partner,Frontend Developer,Associate,5,3,Staffing & Recruiting,NA,SQL JavaScript React AWS
+109,Stealth Startup,Senior Front End React Developer,Mid-Senior level,6,NA,Computer Software,NA,HTML5 CSS React
+110,MachiningCloud,Front End Web Developer,Associate,10,4,Computer Software,NA,C C# HTML5 ASP.NET CSS SQL JavaScript Angular React
+111,Tree of Life Bookstores,Front End Developer (Senior),Associate,5,NA,Higher Education,NA,C CSS JavaScript PHP
+112,Cvent,Front End Designer/Developer,Mid-Senior level,3,5,Computer Software,NA,Python HTML5 CSS JavaScript Ruby CSS3 PHP
+113,Ciber Global,Frontend Developer,Mid-Senior level,,NA,Information Technology & Services,NA,Java JavaScript React
+114,Saggezza,UI Developer,Entry level,3,5,Information Technology & Services,NA,HTML5 CSS JavaScript React AWS
+115,Sameday Health,Front End Web Developer / Squarespace,Entry level,30,50,Biotechnology,NA,
+116,"Reinventing Geospatial, Inc (RGi)",UI/UX (Front-end) Developer,Entry level,2,NA,Information Technology & Services,NA,C Java
+117,Oliver Parks,Frontend Developer (Shopify),Mid-Senior level,,NA,Staffing & Recruiting,NA,React
+118,Synergis,Sr. Front End/UI Developer,Mid-Senior level,40,6,Staffing & Recruiting,NA,CSS JavaScript Angular React
+119,Hays,Sr Full Stack Developer (Front-End),Mid-Senior level,8,NA,Staffing & Recruiting,NA,C C# Java HTML5 ASP.NET SQL JavaScript Angular React AWS
+120,Modis,Senior Front End Developer,Mid-Senior level,,NA,Information Technology & Services,NA,PostgreSQL SQL JavaScript Angular React AWS
+121,NTERSOL,Frontend Developer,Mid-Senior level,,NA,Computer Software,NA,HTML5 CSS Angular
+122,Ciber Global,Frontend Developer,Mid-Senior level,,NA,Information Technology & Services,NA,Java JavaScript React
+123,Prestige Staffing,Lead Front End Developer (React/Node),Mid-Senior level,10,6,Staffing & Recruiting,NA,HTML5 CSS SQL JavaScript Angular React Azure
+124,"International Consulting Associates, Inc.",Frontend Developer,Mid-Senior level,2,1,Management Consulting,NA,Node.js React
+125,NTERSOL,Frontend Developer,Mid-Senior level,,NA,Computer Software,NA,HTML5 CSS Angular
+126,Arminus,Sr. Front End Developer,Mid-Senior level,10,NA,Information Technology & Services,NA,C AngularJS CSS JavaScript AngularJS
+127,Options Group,Front End Software Engineer,Associate,2,NA,Staffing & Recruiting,NA,C C# Java Python CSS SQL JavaScript Angular React
+128,ettain group,Frontend Developer,Mid-Senior level,7,NA,Staffing & Recruiting,NA,C CSS JavaScript Angular React
+129,GrainBridge,Frontend Developer,Associate,2,NA,Computer Software,NA,C Node.js Angular React Azure AWS
+130,LTI - Larsen & Toubro Infotech,Frontend Developer (Angular),Mid-Senior level,5,2,Information Technology & Services,NA,JavaScript Angular AWS
+131,X4 Technology,Frontend Developer,Mid-Senior level,3,5,Staffing & Recruiting,NA,
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP,Azure,AWS,Hyperledger,Ethereum,R3,Corda,Quorum,Golang,Solidity,Vyper
+0,3,30,1,9,20,10,16,32,8,8,7,7,2,1,0,82,4,0,26,94,6,8,49,68,14,2,10,9,12,25,1,1,0,0,0,1,0,0
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Jobot,Magento Back End Developer,Mid-Senior level,5,NA,Staffing & Recruiting,NA,JavaScript PHP
+2,Alloy,Senior Back End Engineer,Associate,5,NA,Financial Services,NA,PostgreSQL C Node.js SQL React AWS
+3,LÜK,Back End Developer,Entry level,3,NA,Computer Software,NA,PostgreSQL Python SQL
+4,iOLAP,Back End Developer,Entry level,,NA,Information Technology & Services,NA,Node.js SQL JavaScript AWS
+5,Amazon,Front-End Engineer II,Mid-Senior level,3,1,Internet,NA,C Java C++ SQL React AWS
+6,Booz Allen Hamilton,"Back-End Web Developer, Mid",Entry level,3,509,Information Technology & Services,NA,Oracle Java AngularJS Spring Hibernate SQL AngularJS Angular
+7,Optello,Lead Back End Developer,Associate,5,NA,Staffing & Recruiting,NA,Java Python Golang Golang
+8,Cadent,Back End Developer,Mid-Senior level,3,NA,Marketing & Advertising,NA,C# Java Python ASP.NET Spring SQL Azure AWS
+9,Kandji,Back End Developer,Mid-Senior level,3,NA,Computer Software,NA,Python
+10,Instrument,Senior Back End Developer,Mid-Senior level,5,100,Marketing & Advertising,NA,AWS
+11,Memfault,Back End Developer,Mid-Senior level,3,401,Internet,NA,PostgreSQL Python Node.js SQL React AWS
+12,SNI Companies,Back End Developer,Associate,3,5,Staffing & Recruiting,NA,SQL JavaScript CSS3
+13,ThisApp,Back End Developer,Entry level,3,NA,Computer Software,NA,Node.js AWS
+14,Charles River Laboratories,Back End Developer,Entry level,,NA,Biotechnology,NA,Oracle Java Spring SQL JavaScript Angular React Scala NodeJS
+15,"IDR, Inc.",Back End Node Developer,Associate,3,NA,Staffing & Recruiting,NA,Node.js
+16,HackerRank,Back End Engineer,Mid-Senior level,401,58,Computer Software,NA,NA Ruby React AWS
+17,Wodify,Senior Back End Engineer,Associate,5,NA,Computer Software,NA,C C# Java Python ASP.NET SQL Azure AWS
+18,DYPER,Back End Developer,Entry level,6,NA,Consumer Goods,NA,C# JavaScript Angular AWS
+19,NTERSOL,Back End Developer,Mid-Senior level,,NA,Computer Software,NA,C# SQL Angular React Azure AWS
+20,Syndigo,Back End Developer,Mid-Senior level,0,1,Information Technology & Services,NA,C# ASP.NET
+21,Rent Bridge,Back End Web Developer,Associate,,NA,Real Estate,NA,Node.js
+22,JPMorgan Chase & Co.,Full Stack Front End Developer,Entry level,3,NA,Financial Services,NA,Angular React Hyperledger Ethereum
+23,GEMMACON North America Inc.,Back End Developer,Entry level,,NA,Automotive,NA,Oracle Java Python SQL Azure
+24,maven,Back End Developer,Mid-Senior level,4,NA,Staffing & Recruiting,NA,
+25,PepsiCo,eCommerce Back End Engineer,Mid-Senior level,,NA,Food & Beverages,NA,C Ruby AWS
+26,Cognizant,Front-end Web Developer,Entry level,,NA,Information Technology & Services,NA,HTML5 CSS JavaScript
+27,Peerspace,Back End Engineer,Mid-Senior level,5,NA,Consumer Services,NA,Java Python Node.js SQL JavaScript
+28,Barracuda,Back End Developer,Entry level,,NA,Information Technology & Services,NA,Java Python AWS
+29,RiverCap Holdings,Back-end Developer,Entry level,4,NA,Venture Capital & Private Equity,NA,C# C++ CSS SQL JavaScript Azure
+30,TouchPal,Back End Engineer,Associate,,NA,Information Technology & Services,NA,Python
+31,Optello,Lead Back End Developer,Associate,5,NA,Staffing & Recruiting,NA,Java Python Golang Golang
+32,Sonatype,Front-End Engineer - 100% Remote,Associate,,NA,Computer Software,NA,Java AngularJS CSS JavaScript AngularJS React
+33,Booz Allen Hamilton,"Back-End Web Developer, Mid",Entry level,3,509,Information Technology & Services,NA,Oracle Java AngularJS Spring Hibernate SQL AngularJS Angular
+34,Garmin,Software Engineer 1 - Back-End Developer,Entry level,3,NA,Consumer Electronics,NA,C# SQL
+35,Forefront Solutions & Consultancies Ltd,Remote Back End Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Python
+36,Accenture,Front End Web Developer,Mid-Senior level,1,1,Information Technology & Services,NA,Java Node.js ReactJS CSS Ruby Angular NodeJS Azure AWS
+37,Hexagon PPM,Principal Back-End Developer,Associate,3,NA,Computer Software,NA,
+38,IBM,IBM Back End Develper,Mid-Senior level,5,5,Information Technology & Services,NA,C Java NA
+39,Three Point Solutions Inc,Back-End Developer,Entry level,5,3,Staffing & Recruiting,NA,Java Spring SQL AWS
+40,Mindera UK,Back End Java Developer,Mid-Senior level,,NA,Computer Software,NA,C Java Spring SQL JavaScript
+41,Jobot,Magento Back End Developer,Mid-Senior level,5,NA,Staffing & Recruiting,NA,JavaScript PHP
+42,Rallyest,Back End Developer/Co-Founder,Mid-Senior level,,NA,Computer Software,NA,CSS SQL JavaScript Angular PHP AWS
+43,Dice,Back End Developer,Entry level,4,NA,Internet,NA,SQL PHP Azure
+44,nTopology,Back-End Engineer,Entry level,2,2,Computer Software,NA,Python JavaScript React
+45,Redica Systems,Elastic Engineer/Back End Developer,Entry level,,NA,Information Services,NA,
+46,Amazon,Front-End Engineer II,Mid-Senior level,3,1,Internet,NA,C Java C++ SQL React AWS
+47,Alo Moves,Front-End Engineer,Associate,,NA,"Health, Wellness & Fitness",NA,CSS JavaScript Angular React
+48,JohnHart Real Estate,Back End Developer,Entry level,,NA,Real Estate,NA,HTML5 CSS JavaScript PHP
+49,NPAworldwide,Back End Systems Developer,Entry level,,NA,Staffing & Recruiting,NA,C Python SQL
+50,Zilker Partners,Back End Engineer,Mid-Senior level,5,NA,Staffing & Recruiting,NA,Java NA CSS SQL JavaScript AWS
+51,DAT Group,Senior Back End Developer,Associate,5,NA,Automotive,NA,Java Python C++ SQL Scala Azure AWS
+52,byte®,Senior Back End Node.js Developer,Associate,,NA,Cosmetics,NA,Node.js
+53,Buxton,Back End Software Engineer,Mid-Senior level,2,NA,Computer Software,NA,C# Java ASP.NET SQL AWS
+54,GlobalLogic,Backend Developer - NodeJS,Mid-Senior level,2,NA,Computer Software,NA,NodeJS
+55,Pendo.io,Sr. Back End Engineer,Associate,5,NA,Computer Software,NA,C Spark Java Python SQL AWS
+56,Altruist,Senior Back End Engineer,Mid-Senior level,5,NA,Financial Services,NA,Java Spring SQL AWS
+57,Orama Solutions,Back-End Developer - Series A $30mil - Open-Source/Kubernetes Market Leaders,Mid-Senior level,4,NA,Staffing & Recruiting,NA,Golang Golang
+58,FIS,Senior Back End Developer - New Venture,Associate,10,5,Information Technology & Services,NA,C C# SQL Azure AWS
+59,Nauto,Senior Backend Engineer,Mid-Senior level,,NA,Computer Software,NA,Python Node.js Golang SQL AWS Golang
+60,Turo,Senior Backend Engineer,Associate,3,NA,Computer Software,NA,C Java Python Ruby
+61,TMP Worldwide,Senior Back End Developer,Associate,4,NA,Marketing & Advertising,NA,Python Node.js SQL JavaScript AWS
+62,Eventbrite,Principal Front End Engineer,Associate,5,3,Internet,NA,PostgreSQL Python Node.js HTML5 SQL JavaScript React CSS3 AWS
+63,Pie Insurance,Senior Back-End Software Engineer,Mid-Senior level,5,8,Insurance,NA,C# Java SQL JavaScript Angular React
+64,Lyra Health,Senior Front-End Engineer,Mid-Senior level,5,NA,Internet,NA,HTML5 JavaScript Angular React
+65,Riskalyze,Senior Staff Back-End Engineer,Mid-Senior level,8,NA,Internet,NA,SQL PHP AWS
+66,Tinder,Senior Backend Engineer - Tinder Service Platform,Associate,5,NA,Internet,NA,Java Node.js SQL Azure AWS
+67,Infosys,Full Stack Developer,Associate,2,4,Information Technology & Services,NA,Oracle Spark Java Python HTML5 ReactJS AngularJS CSS Spring Hibernate SQL JavaScript AngularJS AWS
+68,EAB,Front End Engineer,Associate,2,NA,Education Management,NA,Python HTML5 CSS JavaScript React AWS
+69,Vanguard,Client Experience Sr. Front End Engineer,Mid-Senior level,3,NA,Financial Services,NA,Java Spring JavaScript
+70,ReCharge Payments,Front End Engineer,Entry level,5,5,Internet,NA,Python HTML5 JavaScript React CSS3
+71,Covance,Front End Web Developer,Entry level,7,7,Research,NA,C Java CSS JavaScript
+72,BNY Mellon,"Senior Specialist, Full-Stack Developer",Mid-Senior level,7,10,Financial Services,NA,Oracle Spark Java HTML5 CSS SQL Angular CSS3
+73,Verizon,Front End Software Engineer,Mid-Senior level,,NA,Information Technology & Services,NA,Java Node.js Angular React
+74,Patreon,Senior Backend Engineer,Associate,4,NA,Internet,NA,Java Python SQL AWS
+75,ReCharge Payments,Front End Engineer,Entry level,5,5,Internet,NA,Python HTML5 JavaScript React CSS3
+76,Covance,Front End Web Developer,Entry level,7,7,Research,NA,C Java CSS JavaScript
+77,Scovios,Backend Engineer,Mid-Senior level,,NA,Computer Software,NA,AWS
+78,Bankers Healthcare Group,Back-End Software Engineer,Entry level,2,4,Financial Services,NA,C# SQL Azure
+79,Barnes Foundation,Front-End Web Developer,Associate,2,2,Museums & Institutions,NA,C CSS React AWS
+80,Point B,Front-End Engineer,Associate,,NA,Management Consulting,NA,CSS JavaScript Ruby React
+81,One Drop,"Front-End Engineer, Shopify",Entry level,3,NA,"Health, Wellness & Fitness",NA,CSS SQL JavaScript Angular React PHP
+82,Incendia Partners,"Sr. Backend Engineer (Go-lang) - salary to $170,000.00 - REMOTE",Associate,7,1,Staffing & Recruiting,NA,C Python AWS
+83,Robinhood,Backend Engineer (New Grad),Associate,2021,100,Financial Services,NA,PostgreSQL C Python SQL
+84,Apptronic Labs,Backend Engineer,Mid-Senior level,4,NA,Computer Software,NA,PostgreSQL Python C++ SQL Ruby AWS
+85,.seed,Backend Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,SQL
+86,Radix Labs,Front End ScalaJS Web Developer,Entry level,5,NA,Biotechnology,NA,Java React Scala
+87,Mason,Front End Engineer,Mid-Senior level,,NA,Computer Software,NA,HTML5 JavaScript React CSS3 AWS
+88,BlockFi,Front End Engineer (USA),Entry level,,NA,Financial Services,NA,C NA CSS JavaScript React AWS
+89,Union,Front-End Web Developer,Entry level,,NA,Marketing & Advertising,NA,CSS JavaScript
+90,Doctor On Demand,Backend Engineer - Remote,Mid-Senior level,5,7,Hospital & Health Care,NA,Python HTML5 CSS SQL
+91,Branch International,Backend Engineer,Associate,5,NA,Financial Services,NA,
+92,Minted,Senior Web Developer,Mid-Senior level,1,1,Internet,NA,Python ReactJS SQL JavaScript PHP AWS
+93,Zoox,Front-End Engineer - Simulation & Visualization,Associate,3,NA,Automotive,NA,Java Spring SQL Angular React AWS
+94,Tesla,"Frontend Software Engineer, Autopilot AI Tooling",Entry level,,NA,Automotive,NA,CSS JavaScript React
+95,Mizzen+Main,Front End Web Developer,Entry level,,NA,Apparel & Fashion,NA,CSS JavaScript
+96,Asen Associates,Hybrid front-end / back-end developer/ JavaScript/ CSS/ Cloud,Entry level,10,NA,Staffing & Recruiting,NA,Oracle C Java Node.js ReactJS AngularJS CSS Spring SQL JavaScript AngularJS Azure AWS
+97,Contrast Security,Senior Back-End Java Engineer,Associate,5,NA,Internet,NA,Java Spring AWS
+98,Codecademy,Staff Backend Engineer: Codecademy for Business,Associate,8,NA,E-learning,NA,PostgreSQL C Python SQL JavaScript Ruby React AWS
+99,Unity Technologies,Senior Backend Engineer,Mid-Senior level,,NA,Computer Software,NA,Java Python Node.js Golang SQL Golang
+100,Crowdskout,Backend Engineer,Entry level,2,NA,Computer Software,NA,Python SQL PHP AWS
+101,Atlassian,"Backend Engineer, Trello (Remote - U.S.)",Mid-Senior level,,NA,Computer Software,NA,Node.js JavaScript
+102,Frame.io,Sr. Backend Engineer,Mid-Senior level,,NA,Computer Software,NA,PostgreSQL C SQL
+103,Five9,Senior Front End Engineer,Associate,5,1,Computer Software,NA,C Java Node.js AngularJS CSS Spring Hibernate JavaScript AngularJS React AWS
+104,Citizen,Senior Backend Engineer,Mid-Senior level,5,10,Internet,NA,C Java Python
+105,Trust In SODA Ltd,Senior Backend Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,PostgreSQL Java Golang SQL Golang
+106,Mozart Data,Backend Engineer,Associate,,NA,Computer Software,NA,SQL
+107,Spiral,Senior Backend Engineer,Associate,5,8,Financial Services,NA,Java Spring Hibernate
+108,Motion Recruitment,Senior Backend Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Spark Java ReactJS CSS SQL JavaScript Ruby
+109,Catapult Solutions Group,Senior Backend Engineer - Remote,Mid-Senior level,6,NA,Staffing & Recruiting,NA,Python Golang AWS Golang
+110,Airvet,Senior Backend Engineer,Associate,3,NA,Veterinary,NA,C Python Node.js Golang SQL AWS Golang
+111,Meredith Corporation,Front End Engineer,Entry level,2,3,Media Production,NA,C CSS SQL JavaScript Angular React
+112,Scribd,Senior Backend Engineer,Mid-Senior level,5,NA,Online Media,NA,Node.js Ruby AWS
+113,Braze,Senior Backend Engineer,Mid-Senior level,5,NA,Internet,NA,Java Ruby
+114,Netskope,Front End Engineer,Mid-Senior level,5,NA,Computer Software,NA,Java Python Node.js HTML5 JavaScript CSS3
+115,"Skyward, A Verizon company",Backend Engineer,Mid-Senior level,4,1,Airlines/Aviation,NA,PostgreSQL Java Spring SQL AWS
+116,ChowNow,Senior Backend Engineer,Mid-Senior level,,NA,Internet,NA,Python SQL React
+117,CyberCoders,Front-End Engineer- React - REMOTE,Mid-Senior level,,NA,Staffing & Recruiting,NA,CSS JavaScript React
+118,WarnerMedia,"Frontend Engineer 2, Player Experience (AVOD) - HBO Max",Associate,,NA,Entertainment,NA,C NA JavaScript
+119,Capsule,Senior Front End Engineer,Associate,3,NA,Internet,NA,CSS JavaScript React
+120,Stella Jobs,Lead Front End Software Engineer,Associate,5,2,Internet,NA,PostgreSQL C SQL JavaScript React
+121,TSYS,Front End Engineer (REACT),Entry level,,NA,Financial Services,NA,Node.js HTML5 SQL JavaScript React CSS3
+122,Netskope,Front End Engineer,Mid-Senior level,5,NA,Computer Software,NA,Java Python Node.js HTML5 JavaScript CSS3
+123,Peregrine,Backend Engineer,Associate,,NA,Computer Software,NA,PostgreSQL Python SQL AWS
+124,WarnerMedia,"Frontend Engineer 2, Player Experience (AVOD) - HBO Max",Associate,,NA,Entertainment,NA,C NA JavaScript
+125,Unity Technologies,Senior Backend Engineer,Mid-Senior level,,NA,Computer Software,NA,Java Python Node.js Golang SQL Golang
+126,Thinkfind Corporation,Java/Hibernate Back-end Developer,Entry level,5,1,Information Technology & Services,NA,C Spark Java CSS Spring Hibernate SQL JavaScript
+127,Apex Systems,Front-end Engineer (REMOTE),Entry level,5,7,Information Technology & Services,NA,C C# Java Python HTML5 JavaScript CSS3
+128,"GRAIL, Inc.",Front End Software Engineer,Mid-Senior level,2,NA,Biotechnology,NA,Java Python HTML5 C++ JavaScript React CSS3 AWS
+129,Arminus,Back End Software Engineer,Mid-Senior level,8,NA,Information Technology & Services,NA,C Java Spring
+130,NewsBreak,"Senior Backend Engineer, NLP",Associate,,NA,Marketing & Advertising,NA,C Java Python
+131,Viome,Senior Frontend Engineer (New),Associate,3,5,"Health, Wellness & Fitness",NA,C Java NA CSS JavaScript React
+132,"Self Financial, Inc.",React Front End Engineer,Mid-Senior level,3,NA,Financial Services,NA,CSS JavaScript Angular React
+133,StackRox,Backend Engineer,Associate,,NA,Computer Software,NA,C Java Python C++ Golang C/C++ Golang
+134,ProcessMaker,Front End Web Developer,Entry level,,NA,Computer Software,NA,C NA JavaScript CSS3
+135,Thorium Digital,Front End Web Developer - No C2C,Entry level,3,5,Marketing & Advertising,NA,C Node.js HTML5 CSS SQL JavaScript React PHP AWS
+136,Sulzer US,Backend Developer,Entry level,,NA,Information Technology & Services,NA,C Java Python Spring SQL
+137,"Fetch Rewards, Inc.",Go Developer (Backend Engineer) - Tulsa,Entry level,,NA,Computer Software,NA,Java JavaScript React Scala
+138,LiveLike,Backend Engineer,Entry level,4,3,Entertainment,NA,Python AWS
+139,Philosophie Group Inc.,Senior Front-End Engineer (React),Associate,5,NA,Computer Software,NA,C HTML5 CSS JavaScript Angular React
+140,Capsule,Senior Front End Engineer,Associate,3,NA,Internet,NA,CSS JavaScript React
+141,Motion Recruitment,Senior Backend Engineer,Mid-Senior level,,NA,Staffing & Recruiting,NA,Spark Java ReactJS CSS SQL JavaScript Ruby
+142,Fortinet,Web Developer,Entry level,,NA,Computer & Network Security,NA,C CSS JavaScript Angular React
+143,Bushel,Senior Back-End Web Engineer,Associate,,NA,Computer Software,NA,Java Spring
+144,insightsoftware,Front End Engineer,Associate,3,NA,Computer Software,NA,C HTML5 CSS SQL JavaScript Angular
+145,Beachbody,Front End Web Developer,Entry level,4,5,"Health, Wellness & Fitness",NA,C HTML5 JavaScript Angular React CSS3
+146,Beachbody,Front End Web Developer,Entry level,4,5,"Health, Wellness & Fitness",NA,C HTML5 JavaScript Angular React CSS3
+147,Equinox Media,Lead Backend Engineer,Mid-Senior level,,NA,"Health, Wellness & Fitness",NA,Node.js
+148,ezCater,Senior Front End Software Engineer,Mid-Senior level,5,NA,Internet,NA,C CSS JavaScript Ruby React
+149,Revel,Backend Engineer,Associate,2,NA,Transportation/Trucking/Railroad,NA,Python React
+150,JLL,Senior Front End Web Developer (Wordpress),Associate,5,3,Real Estate,NA,HTML5 CSS SQL JavaScript CSS3 PHP
+151,Jobox.ai,Front End Engineer,Entry level,,NA,Internet,NA,Python CSS JavaScript React NodeJS
+152,Melaleuca:The Wellness Company,Front-end Web Developer II- (Escape the crowds by relocating to Idaho),Director,2,4,"Health, Wellness & Fitness",NA,C Node.js CSS Angular AWS
+153,EveryMundo,Front end Engineer (Data Analytics),Associate,,NA,Computer Software,NA,HTML5 AngularJS SQL JavaScript AngularJS
+154,ExtensisHR,Senior Full Stack Developer,Mid-Senior level,4,NA,Human Resources,NA,C# Java SQL
+155,Torch,Full Stack Engineer,Associate,,NA,Professional Training & Coaching,NA,C# Java Python CSS Ruby React AWS
+156,StaffSource,Backend Developer,Entry level,3,NA,Staffing & Recruiting,NA,Oracle Java Python SQL
+157,LaSalle Network,Sr. Backend Engineer (Python),Mid-Senior level,4,NA,Staffing & Recruiting,NA,Java Python Ruby
+158,PEI-Genesis,Senior Web Developer,Associate,5,NA,Electrical & Electronic Manufacturing,NA,C C# Java HTML5 ASP.NET CSS SQL JavaScript
+159,Fieldwire,Backend Engineer,Entry level,3,NA,Computer Software,NA,Ruby AWS
+160,Options Group,Front End Software Engineer,Associate,2,NA,Staffing & Recruiting,NA,C C# Java Python CSS SQL JavaScript Angular React
+161,Cobalt Robotics,Senior Backend Engineer,Mid-Senior level,2,NA,Information Technology & Services,NA,Python AWS
+162,Waymo,"Backend Engineer, ML Data Infrastructure",Mid-Senior level,,NA,Transportation/Trucking/Railroad,NA,C++
+163,Nemesis,Backend Engineer,Entry level,,NA,Design,NA,Python
+164,Duckpin,Web Developer Front End,Entry level,4,2,Marketing & Advertising,NA,PostgreSQL Node.js CSS Spring SQL JavaScript Angular React
+165,IGNW,Sr. Back End Java Engineer - SpringBoot,Associate,5,NA,Information Technology & Services,NA,C Java Python CSS Spring SQL JavaScript AWS
+166,Circadence,Senior Front End Web Developer,Mid-Senior level,2,1,Computer & Network Security,NA,C SQL JavaScript React Azure
+167,Equinox Media,Lead Backend Engineer,Mid-Senior level,,NA,"Health, Wellness & Fitness",NA,Node.js
+168,"Attain, LLC",100% Remote Full Stack Engineer,Entry level,5,3,Information Technology & Services,NA,C Spark Java Spring JavaScript Angular React Scala AWS
+169,L'ange Hair,Backend Engineer,Entry level,2,3,Consumer Goods,NA,Node.js SQL JavaScript AWS
+170,Sym,Backend Engineer,Associate,,NA,Internet,NA,Python Ruby Azure AWS
+171,Atrius Health,Web Developer,Entry level,,NA,"Health, Wellness & Fitness",NA,C# CSS SQL JavaScript
+172,GameChange Solar,Backend Web Developer,Mid-Senior level,,NA,Renewables & Environment,NA,JavaScript
+173,PriceHubble,"Senior FullStack Engineer (Paris, Berlin, Hamburg, Vienna)",Associate,3,5,Real Estate,NA,Python HTML5 JavaScript Angular React CSS3
+174,Wipro Limited,Full Stack Engineer,Mid-Senior level,7,10,Information Technology & Services,NA,HTML5 SQL JavaScript Angular React Azure AWS
+175,Bbot,Frontend React Developer - Remote Work - Work From Home,Entry level,,NA,Food & Beverages,NA,C AngularJS JavaScript AngularJS React
+176,Canopy Mortgage,Backend Developer,Entry level,,NA,Financial Services,NA,C# SQL JavaScript
+177,Avail Medsystems,Senior Front-End Engineer,Mid-Senior level,5,5,Hospital & Health Care,NA,C Java HTML5 Spring JavaScript Angular React CSS3
+178,Stripe,"Staff Engineer Frontend, Connect",Mid-Senior level,6,NA,Internet,NA,CSS React
+179,Rivian,"Senior Front End Software Engineer, Customer Support Engineering",Mid-Senior level,3,2,Automotive,NA,HTML5 JavaScript React AWS
+180,Givelify,"Senior Backend Engineer (PHP, Laravel)",Mid-Senior level,5,NA,Information Technology & Services,NA,Spark Python Node.js Angular PHP Azure AWS
+181,Collective Health,Senior Backend Engineer - Experience,Associate,5,NA,Computer Software,NA,PostgreSQL Spark Java Python SQL Angular
+182,LivePerson,Full Stack Engineer (SDE II),Entry level,5,3,Computer Software,NA,C Spark Java Python Node.js AngularJS SQL AngularJS Angular React Scala AWS
+183,Roblox,Senior Backend Engineer (Luobu Studio - Developer Services),Mid-Senior level,,NA,Computer Software,NA,C# Java AngularJS C++ CSS SQL JavaScript AngularJS
+184,Unusual Ventures,Senior Backend Engineer,Associate,,NA,Financial Services,NA,AWS
+185,i2i Population Health,Full Stack Developer,Associate,2,2,Information Technology & Services,NA,Oracle C C# ASP.NET SQL Angular Azure AWS
+186,TIBCO,Drupal Front End Web Developer,Mid-Senior level,5,5,Computer Software,NA,JavaScript
+187,SBS CORP,Backend engineer,Entry level,,NA,Information Technology & Services,NA,Java
+188,Jumpstart,Staff Engineer (Frontend),Associate,6,3,Internet,NA,Python CSS JavaScript React AWS
+189,Okera,Senior Backend Software Engineer,Mid-Senior level,5,NA,Computer Software,NA,Spark Java Python C++ Golang SQL Azure AWS Golang
+190,GiveDirectly,Full Stack Engineer,Entry level,,NA,Non-profit Organization Management,NA,Python SQL Ruby React
+191,IMVU,Senior Web Developer - Studio,Mid-Senior level,5,3,Internet,NA,CSS JavaScript Angular React
+192,DiDi,Full Stack Software Engineer (User Growth),Entry level,3,NA,Internet,NA,Java Python C++ CSS Spring SQL JavaScript React AWS
+193,Stealth Startup,Senior Front End React Developer,Mid-Senior level,6,NA,Computer Software,NA,HTML5 CSS React
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP,Azure,AWS,Hyperledger,Ethereum,R3,Corda,Quorum,Golang,Solidity,Vyper
+9,14,52,11,20,73,65,32,29,6,10,8,6,11,12,1,52,24,6,86,88,17,10,34,64,17,6,4,12,18,69,1,1,0,0,0,12,0,0

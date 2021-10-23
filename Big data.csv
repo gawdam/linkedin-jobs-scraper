@@ -1,0 +1,103 @@
+S_no,job_company,job_role,job_level,job_experience_min,job_experience_max,job_industry,job_functions,job_skills
+1,Conviva,Senior Data Engineer,Associate,4,NA,Internet,NA,C Spark Java Python SQL Scala
+2,Nike,"Senior Cyber Threat Analytics Engineer, India – CIS ICC",Associate,,NA,Sporting Goods,NA,C Java Python
+3,WhiteCrow Research,Big Data Engineer,112 applicants,4,6,Human Resources,NA,C Spark Java Python SQL Scala
+4,A.P. Moller - Maersk,Lead Data Engineer (Big Data and Azure experience),65 applicants,10,NA,Logistics & Supply Chain,NA,C Spark SQL Scala
+5,GEP,GEP - Senior Principal Data Engineer - ETL/Spark/Big Data (8-13 yrs) Navi Mumbai (Analytics & Data Science),Associate,1,000,Management Consulting,NA,C Spark Python SQL Scala
+6,Razorpay,Senior Data Engineer,171 applicants,4,NA,Computer Software,NA,C Spark Java SQL Scala
+7,Retina Software Pvt. Ltd.,Big Data Engineer,Entry level,24,42,Information Technology & Services,NA,C Java Spring
+8,IndianMoney.com,Data Scientist,284 applicants,2,NA,Financial Services,NA,C Python SQL NodeJS PHP
+9,Rho AI,Data Scientist,271 applicants,5,3,Computer Software,NA,C Python
+10,nference,Data Scientist,25 applicants,,NA,Pharmaceuticals,NA,C
+11,I Square Soft,Big Data Developer,Entry level,2,3,NA,NA,Spark Java SQL Scala
+12,Tookitaki,Data Scientist (India) - Research and Development,Entry level,3,5,Computer Software,NA,C Spark Python SQL Scala
+13,Ayla Networks,Senior Data Engineer in Test,Associate,8,NA,Internet,NA,Spark Python
+14,Novartis India,Data scientist web crawler,Mid-Senior level,6,10,Pharmaceuticals,NA,C Java Python
+15,Novartis India,Data scientist web crawler,Mid-Senior level,6,10,Pharmaceuticals,NA,C Java Python
+16,Novartis India,Data scientist web crawler,Mid-Senior level,6,10,Pharmaceuticals,NA,C Java Python
+17,Novartis India,Data scientist web crawler,Mid-Senior level,6,10,Pharmaceuticals,NA,C Java Python
+18,Novartis India,Data scientist web crawler,Mid-Senior level,6,10,Pharmaceuticals,NA,C Java Python
+19,Franklin Templeton India,Data Scientist / Research Analyst,Mid-Senior level,4,NA,Financial Services,NA,C Spark Python SQL
+20,Wakefit,Data Scientist,Entry level,4,6,Furniture,NA,C Python SQL
+21,Cimpress India,Data Scientist,"1,149 applicants",3,NA,Internet,NA,C C# Java Python C++ C/C++
+22,Enquero,Senior Data Engineer,Associate,2,4,Information Technology & Services,NA,C Spark Java Python SQL Scala
+23,Securonix,Team Lead-Application Support,Associate,8,NA,Computer Software,NA,C Python SQL
+24,Enquero,Senior Data Engineer,Associate,2,4,Information Technology & Services,NA,C Spark Java Python SQL Scala
+25,TouchNote,Data Engineer,Mid-Senior level,3,NA,Internet,NA,PostgreSQL C Spark Python SQL Scala PHP
+26,Inshorts,Data Scientist,904 applicants,2,3,Internet,NA,C Spark
+27,Tesdorpfs,Data Scientist,"1,585 applicants",1,2,Education Management,NA,C Spark Java Python C++
+28,Mphasis,Big Data Developer,Mid-Senior level,2,5,Information Technology & Services,NA,Spark SQL
+29,Kimberly-Clark,Data Scientist,Entry level,3,5,Consumer Goods,NA,C Spark Python SQL React
+30,Poshmark,"Software Engineer, Data Engineering",Entry level,0,3,Internet,NA,C Spark Java Python SQL Ruby Scala
+31,Aera Technology,"Senior Software Engineer, Machine Learning",Mid-Senior level,5,NA,Information Technology & Services,NA,C Spark Java SQL
+32,Fractal,"Data Scientist, NLP",Mid-Senior level,,NA,Management Consulting,NA,C Python
+33,Melstar Information Technolgies Ltd.,DATA SCIENTIST Analytics Technology,Entry level,,NA,Staffing & Recruiting,NA,C Java Python SQL
+34,AppZen,Data Scientist,Entry level,4,6,Computer Software,NA,C Python
+35,AppZen,Data Scientist,Entry level,4,6,Computer Software,NA,C Python
+36,Netcore Solutions,Data Scientist,Entry level,2,2,Information Technology & Services,NA,C Spark Python SQL Scala
+37,Quark Software Inc.,Data Scientist,232 applicants,5,7,Computer Software,NA,C Spark Java Python NA C++ SQL JavaScript
+38,CRMNEXT,CRMNEXT - Data Scientist - Python/Big Data Algorithms (2-10 yrs) Mumbai (Analytics & Data Science),Entry level,,NA,Information Technology & Services,NA,C Python
+39,CRMNEXT,CRMNEXT - Data Scientist - Python/Big Data Algorithms (2-10 yrs) Mumbai (Analytics & Data Science),Entry level,,NA,Information Technology & Services,NA,C Python
+40,Ceequence Technologies,Senior Data Engineer,Associate,6,5,Outsourcing/Offshoring,NA,PostgreSQL C Spark Java Python SQL Scala
+41,Time Analytic & Shared Services Pvt. Ltd,Cognitive Software Engineer,Entry level,1,3,Publishing,NA,Oracle PostgreSQL C Java Python SQL Angular React Scala
+42,Executive Scouters,Data Scientist ( Retail / Fashion and Apparels),762 applicants,,NA,Human Resources,NA,C Spark Java Python C++ SQL
+43,Executive Scouters,Data Scientist ( Retail / Fashion and Apparels),762 applicants,,NA,Human Resources,NA,C Spark Java Python C++ SQL
+44,Executive Scouters,Data Scientist ( Retail / Fashion and Apparels),762 applicants,,NA,Human Resources,NA,C Spark Java Python C++ SQL
+45,Mercedes-Benz AG,Data Scientist-- Principal consultant,Entry level,10,NA,Automotive,NA,Spark Python SQL
+46,Mercedes-Benz AG,Data Scientist-- Principal consultant,Entry level,10,NA,Automotive,NA,Spark Python SQL
+47,Mercedes-Benz AG,Data Scientist-- Principal consultant,Entry level,10,NA,Automotive,NA,Spark Python SQL
+48,SquareRoot Consulting (Pty) Ltd,Senior/Staff Software Engineer - Data Platform (6-12 yrs) Bangalore (Backend Developer),Associate,6,NA,Information Technology & Services,NA,C Java SQL
+49,VNB Consulting Services,Senior Azure Data Engineer,211 applicants,5,NA,Information Technology & Services,NA,
+50,Dhruv Technology Solutions,Senior Data Virtualization Engineer,Mid-Senior level,7,1,Information Technology & Services,NA,Oracle SQL
+51,TVS Motor Company,Principal Data Engineer_920,Associate,10,NA,Automotive,NA,C Spark Python SQL
+52,Optum Global Solutions,Data Scientist,Entry level,,NA,Information Technology & Services,NA,C Spark Python
+53,Britive,Data Scientist,Director,,NA,Computer Software,NA,C Spark Python SQL
+54,KATERRA,Software Quality Assurance Engineer,Associate,2,5,Construction,NA,C JavaScript
+55,Educomp Solutions Ltd,Data Scientist,Entry level,2,4,E-learning,NA,C Python
+56,Godrej Housing Finance,Data Scientist,"1,047 applicants",5,6,Financial Services,NA,C Spark Python C++
+57,Finicity,Senior Data Engineer,Associate,5,NA,Financial Services,NA,Spark Java Python SQL Scala
+58,Carbynetech,CarbyneTech - Data Scientist - Image Processing/Machine Learning (6-20 yrs) Hyderabad,Entry level,6,8,Information Technology & Services,NA,C
+59,Carbynetech,CarbyneTech - Data Scientist - Image Processing/Machine Learning (6-20 yrs) Hyderabad,Entry level,6,8,Information Technology & Services,NA,C
+60,Radware Bot Manager,Senior Data Engineer,Mid-Senior level,2,NA,Internet,NA,Python SQL
+61,PathAI,"Biomedical Data Scientist, Biostatistician - NYC",Entry level,3,NA,Computer Software,NA,C Python
+62,EMINENCE CORE SOLUTIONS LLP,Data Scientist - C++ Programming,Executive,,NA,Human Resources,NA,C Python C++
+63,EMINENCE CORE SOLUTIONS LLP,Data Scientist - C++ Programming,Executive,,NA,Human Resources,NA,C Python C++
+64,"Hire IT People, Inc",Data Scientist,Entry level,2,NA,Information Technology & Services,NA,Spark Python
+65,Caretel Infotech Ltd,BIG DATA DEVELOPER(Azure) for Bangalore location,Entry level,15,10,Outsourcing/Offshoring,NA,C# NA
+66,CloudxLab,Data Scientist,Entry level,,NA,E-learning,NA,C
+67,NEWJ,Data Engineer,318 applicants,1,3,Online Media,NA,C Python SQL
+68,The One With A Plan,Data Scientist,"1,263 applicants",1,2,Information Technology & Services,NA,C Spark Java Python C++
+69,Seventh Contact Hiring Solutions,Tech Lead (Big Data) / 7-12 Yrs / Immediate/ Pune,61 applicants,7,12,Staffing & Recruiting,NA,C Spark Java Python SQL
+70,The One With A Plan,Data Scientist,"1,263 applicants",1,2,Information Technology & Services,NA,C Spark Java Python C++
+71,Delhivery,Data Scientist,"1,727 applicants",1,7,Logistics & Supply Chain,NA,C Spark Java Python SQL
+72,S Tech AB,Data Scientist Pune,Entry level,2,6,Industrial Automation,NA,C Python
+73,Optimus Global Services Ltd,Senior Data Engineer - NLP/Database Programming (8-14 yrs) Bangalore/Trivandrum/Thiruvananthapuram (Analytics & Data Science),Associate,8,10,Outsourcing/Offshoring,NA,C Spark Python SQL
+74,India_India,Data Scientist,Entry level,23,15,Public Policy,NA,C Spark Java Python SQL
+75,Zirca Digital Solutions Pvt Ltd,Zirca Digital Solutions - Data Scientist - Statistical Modeling & Machine Learning (4-8 yrs) Bangalore/Mumbai (Analytics & Data Science),Entry level,,NA,Marketing & Advertising,NA,C Python SQL
+76,CyberQ Consulting,Data Engineer - Java/Scala (2-5 yrs) Bangalore (Backend Developer),Entry level,2,5,Information Technology & Services,NA,Spark Java Python SQL
+77,ICL Systems,Data Scientist Advanced Analytics,Entry level,50,5,Information Technology & Services,NA,C Java Python
+78,Capgemini,AWS Data Engineer - 4 to 12 Years - Pune location,Associate,4,12,Information Technology & Services,NA,C Python
+79,MNR Solutions Pvt. Ltd,Lead Big Data & LAMP Developer - MySQL/MariaDB/MongoDB (5-10 yrs) Gurgaon/Gurugram (DevOps),Associate,,NA,Staffing & Recruiting,NA,PostgreSQL C Spark Python SQL
+80,YASH Technologies,Sr. Software Engineer - PowerBI Job,Associate,3,NA,Information Technology & Services,NA,Java Python SQL Scala
+81,Yash Synthetics Private Limited,Sr. Software Engineer - PowerBI,Associate,3,NA,Chemicals,NA,Java Python SQL Scala
+82,Thoucentric,Data Scientist,Entry level,4,6,Management Consulting,NA,C Python SQL
+83,Tookitaki,Data Scientist (India) - Research and Development,Entry level,3,5,Computer Software,NA,C Spark Python SQL Scala
+84,Amazon,"Data Scientist II, Consumer Payments",Mid-Senior level,4,NA,Internet,NA,C Python SQL
+85,Conviva,Senior Data Engineer,234 applicants,4,NA,Internet,NA,C Java Python SQL Scala
+86,A.P. Moller - Maersk,"Senior Data Engineer (Spark, Azure experience)",58 applicants,,NA,Logistics & Supply Chain,NA,C Spark SQL Scala
+87,Novartis India,Data Scientist - NLP,Associate,6,10,Pharmaceuticals,NA,C Java Python C++
+88,Daimler Trucks Asia,Data Scientist-- Principal consultant,Entry level,10,NA,Automotive,NA,C Spark Python SQL
+89,Head Digital Works Pvt Ltd.,Data Scientist,Entry level,2,2,Internet,NA,C Python NA SQL
+90,CRMNEXT,CRMNEXT - Data Scientist - Python/Big Data Algorithms (2-10 yrs) Mumbai,Entry level,1,NA,Information Technology & Services,NA,C Python
+91,Aera Technology,Technical Lead - Backend,Mid-Senior level,8,2,Information Technology & Services,NA,C Spark Java Spring SQL
+92,Disc Technology Services Pvt. Ltd,Aera Technology - Technical Lead - Backend,Associate,8,2,Computer Hardware,NA,C Spark Java Spring SQL
+93,Aera Technology,Technical Lead - Backend,Mid-Senior level,8,2,Information Technology & Services,NA,C Spark Java Spring SQL
+94,GEP Worldwide,Senior Architect - Engg,Associate,10,12,Logistics & Supply Chain,NA,C Spark C# Python SQL
+95,Carbynetech,CarbyneTech - Data Scientist - Machine/Deep Learning Algorithms (3-8 yrs) Hyderabad,Entry level,3,8,Information Technology & Services,NA,C Python
+96,Snowflake,Cloud Support Engineer,Entry level,3,1,Computer Software,NA,C Java Python SQL NodeJS
+97,Snowflake,Cloud Support Engineer,Entry level,3,1,Computer Software,NA,C Java Python SQL NodeJS
+98,Snowflake,Cloud Support Engineer,Entry level,3,1,Computer Software,NA,C Java Python SQL NodeJS
+99,Snowflake,Cloud Support Engineer,Entry level,3,1,Computer Software,NA,C Java Python SQL NodeJS
+ 
+Oracle,PostgreSQL,C,Spark,C#,Java,Python,Node.js,HTML5,ReactJS,AngularJS,NA,ASP.NET,C++,Golang,C/C++,CSS,Spring,Hibernate,SQL,JavaScript,Ruby,AngularJS,Angular,React,CSS3,Scala,NodeJS,PHP
+2,4,84,48,3,44,79,0,0,0,0,3,0,12,0,1,0,4,0,60,2,1,0,1,2,0,20,5,2
